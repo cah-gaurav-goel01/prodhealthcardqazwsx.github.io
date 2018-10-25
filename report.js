@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 9338212530,
+  "duration": 7031898932,
   "status": "passed"
 });
 formatter.scenario({
@@ -100,21 +100,21 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 31323744725,
+  "duration": 19026648978,
   "status": "passed"
 });
 formatter.match({
   "location": "basepage.groovy:11"
 });
 formatter.result({
-  "duration": 1348829850,
+  "duration": 2769348927,
   "status": "passed"
 });
 formatter.match({
   "location": "shoppingcartpage.groovy:12"
 });
 formatter.result({
-  "duration": 38256657293,
+  "duration": 46387381010,
   "status": "passed"
 });
 formatter.match({
@@ -127,7 +127,7 @@ formatter.match({
   "location": "searchresultpage.groovy:1158"
 });
 formatter.result({
-  "duration": 33854933867,
+  "duration": 33742078738,
   "status": "passed"
 });
 formatter.match({
@@ -144,7 +144,7 @@ formatter.match({
   "location": "itemdetailspage.groovy:77"
 });
 formatter.result({
-  "duration": 17707386265,
+  "duration": 19488777222,
   "status": "passed"
 });
 formatter.match({
@@ -157,7 +157,7 @@ formatter.match({
   "location": "basepage.groovy:186"
 });
 formatter.result({
-  "duration": 841599410,
+  "duration": 1006672566,
   "status": "passed"
 });
 formatter.match({
@@ -178,7 +178,7 @@ formatter.match({
   "location": "common_csp.groovy:263"
 });
 formatter.result({
-  "duration": 762922554,
+  "duration": 949807099,
   "status": "passed"
 });
 formatter.match({
@@ -199,15 +199,15 @@ formatter.match({
   "location": "common_csp.groovy:69"
 });
 formatter.result({
-  "duration": 2036676142,
+  "duration": 1269900394,
   "status": "passed"
 });
 formatter.after({
-  "duration": 8481533,
+  "duration": 9430749,
   "status": "passed"
 });
 formatter.before({
-  "duration": 38138801,
+  "duration": 43000292,
   "status": "passed"
 });
 formatter.scenario({
@@ -305,14 +305,14 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 36537702828,
+  "duration": 25141622923,
   "status": "passed"
 });
 formatter.match({
   "location": "basepage.groovy:11"
 });
 formatter.result({
-  "duration": 1352300658,
+  "duration": 895582310,
   "status": "passed"
 });
 formatter.match({
@@ -325,7 +325,7 @@ formatter.match({
   "location": "categorynavigation.groovy:291"
 });
 formatter.result({
-  "duration": 21033341460,
+  "duration": 25278045012,
   "status": "passed"
 });
 formatter.match({
@@ -338,14 +338,14 @@ formatter.match({
   "location": "basepage.groovy:186"
 });
 formatter.result({
-  "duration": 1177179012,
+  "duration": 1242013401,
   "status": "passed"
 });
 formatter.match({
   "location": "productnavmenudisplayflag.groovy:30"
 });
 formatter.result({
-  "duration": 39688364151,
+  "duration": 46255135442,
   "status": "passed"
 });
 formatter.match({
@@ -362,7 +362,7 @@ formatter.match({
   "location": "itemdetailspage.groovy:77"
 });
 formatter.result({
-  "duration": 15275255791,
+  "duration": 17695164654,
   "status": "passed"
 });
 formatter.match({
@@ -375,7 +375,7 @@ formatter.match({
   "location": "basepage.groovy:186"
 });
 formatter.result({
-  "duration": 880453536,
+  "duration": 908955747,
   "status": "passed"
 });
 formatter.match({
@@ -396,7 +396,7 @@ formatter.match({
   "location": "common_csp.groovy:69"
 });
 formatter.result({
-  "duration": 2379756821,
+  "duration": 1501792490,
   "status": "passed"
 });
 formatter.match({
@@ -417,15 +417,15 @@ formatter.match({
   "location": "common_csp.groovy:263"
 });
 formatter.result({
-  "duration": 775390619,
+  "duration": 870252992,
   "status": "passed"
 });
 formatter.after({
-  "duration": 697602,
+  "duration": 1011343,
   "status": "passed"
 });
 formatter.before({
-  "duration": 23816872,
+  "duration": 28158085,
   "status": "passed"
 });
 formatter.scenario({
@@ -528,21 +528,21 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 33138289859,
+  "duration": 27285656071,
   "status": "passed"
 });
 formatter.match({
   "location": "basepage.groovy:11"
 });
 formatter.result({
-  "duration": 874577736,
+  "duration": 940766223,
   "status": "passed"
 });
 formatter.match({
   "location": "shoppingcartpage.groovy:12"
 });
 formatter.result({
-  "duration": 11041056857,
+  "duration": 12271703827,
   "status": "passed"
 });
 formatter.match({
@@ -555,7 +555,7 @@ formatter.match({
   "location": "searchresultpage.groovy:1158"
 });
 formatter.result({
-  "duration": 30454875970,
+  "duration": 31331330379,
   "status": "passed"
 });
 formatter.match({
@@ -572,7 +572,7 @@ formatter.match({
   "location": "itemdetailspage.groovy:77"
 });
 formatter.result({
-  "duration": 11927232423,
+  "duration": 11999070770,
   "status": "passed"
 });
 formatter.match({
@@ -585,7 +585,7 @@ formatter.match({
   "location": "basepage.groovy:186"
 });
 formatter.result({
-  "duration": 1153419034,
+  "duration": 894963451,
   "status": "passed"
 });
 formatter.match({
@@ -606,7 +606,7 @@ formatter.match({
   "location": "common_csp.groovy:263"
 });
 formatter.result({
-  "duration": 1311737265,
+  "duration": 1827840553,
   "status": "passed"
 });
 formatter.match({
@@ -627,7 +627,7 @@ formatter.match({
   "location": "common_csp.groovy:69"
 });
 formatter.result({
-  "duration": 1380298879,
+  "duration": 1331130632,
   "status": "passed"
 });
 formatter.match({
@@ -644,7 +644,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 5767142659,
+  "duration": 3793310039,
   "status": "passed"
 });
 formatter.match({
@@ -661,15 +661,15 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 19936142432,
+  "duration": 18072058987,
   "status": "passed"
 });
 formatter.after({
-  "duration": 562877,
+  "duration": 1045710,
   "status": "passed"
 });
 formatter.before({
-  "duration": 24164841,
+  "duration": 37623447,
   "status": "passed"
 });
 formatter.scenario({
@@ -772,21 +772,21 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 38344355328,
+  "duration": 23473626951,
   "status": "passed"
 });
 formatter.match({
   "location": "basepage.groovy:11"
 });
 formatter.result({
-  "duration": 892515604,
+  "duration": 976952726,
   "status": "passed"
 });
 formatter.match({
   "location": "shoppingcartpage.groovy:12"
 });
 formatter.result({
-  "duration": 8210133784,
+  "duration": 9955356146,
   "status": "passed"
 });
 formatter.match({
@@ -799,7 +799,7 @@ formatter.match({
   "location": "searchresultpage.groovy:1158"
 });
 formatter.result({
-  "duration": 23176438470,
+  "duration": 26507538883,
   "status": "passed"
 });
 formatter.match({
@@ -816,7 +816,7 @@ formatter.match({
   "location": "itemdetailspage.groovy:77"
 });
 formatter.result({
-  "duration": 9701298745,
+  "duration": 11162549968,
   "status": "passed"
 });
 formatter.match({
@@ -829,7 +829,7 @@ formatter.match({
   "location": "basepage.groovy:186"
 });
 formatter.result({
-  "duration": 771219862,
+  "duration": 982389027,
   "status": "passed"
 });
 formatter.match({
@@ -850,7 +850,7 @@ formatter.match({
   "location": "common_csp.groovy:263"
 });
 formatter.result({
-  "duration": 1266970442,
+  "duration": 879785672,
   "status": "passed"
 });
 formatter.match({
@@ -871,7 +871,7 @@ formatter.match({
   "location": "common_csp.groovy:69"
 });
 formatter.result({
-  "duration": 1156226124,
+  "duration": 2427182880,
   "status": "passed"
 });
 formatter.match({
@@ -888,7 +888,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 14785017898,
+  "duration": 21093753461,
   "status": "passed"
 });
 formatter.match({
@@ -905,15 +905,15 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 10161891906,
+  "duration": 11589229746,
   "status": "passed"
 });
 formatter.after({
-  "duration": 652994,
+  "duration": 1189349,
   "status": "passed"
 });
 formatter.before({
-  "duration": 24476642,
+  "duration": 33480136,
   "status": "passed"
 });
 formatter.scenario({
@@ -1120,14 +1120,14 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 32735867320,
+  "duration": 24092115720,
   "status": "passed"
 });
 formatter.match({
   "location": "basepage.groovy:11"
 });
 formatter.result({
-  "duration": 882801500,
+  "duration": 2197683328,
   "status": "passed"
 });
 formatter.match({
@@ -1140,7 +1140,7 @@ formatter.match({
   "location": "searchresultpage.groovy:1158"
 });
 formatter.result({
-  "duration": 33796625857,
+  "duration": 33961130008,
   "status": "passed"
 });
 formatter.match({
@@ -1153,7 +1153,7 @@ formatter.match({
   "location": "common_csp.groovy:364"
 });
 formatter.result({
-  "duration": 1287604930,
+  "duration": 491903990,
   "status": "passed"
 });
 formatter.match({
@@ -1170,14 +1170,14 @@ formatter.match({
   "location": "common_csp.groovy:349"
 });
 formatter.result({
-  "duration": 945392091,
+  "duration": 944823652,
   "status": "passed"
 });
 formatter.match({
   "location": "searchresultpage.groovy:761"
 });
 formatter.result({
-  "duration": 5751213982,
+  "duration": 4728548510,
   "status": "passed"
 });
 formatter.match({
@@ -1190,7 +1190,7 @@ formatter.match({
   "location": "searchresultpage.groovy:579"
 });
 formatter.result({
-  "duration": 44960627793,
+  "duration": 47046889921,
   "status": "passed"
 });
 formatter.match({
@@ -1207,7 +1207,7 @@ formatter.match({
   "location": "searchresultpage.groovy:716"
 });
 formatter.result({
-  "duration": 250978123,
+  "duration": 1509681331,
   "status": "passed"
 });
 formatter.match({
@@ -1224,7 +1224,7 @@ formatter.match({
   "location": "searchresultpage.groovy:572"
 });
 formatter.result({
-  "duration": 2760393701,
+  "duration": 2683070643,
   "status": "passed"
 });
 formatter.match({
@@ -1241,7 +1241,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 719688583,
+  "duration": 766291024,
   "status": "passed"
 });
 formatter.match({
@@ -1258,7 +1258,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 916415687,
+  "duration": 776784442,
   "status": "passed"
 });
 formatter.match({
@@ -1275,7 +1275,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 1474738019,
+  "duration": 776774544,
   "status": "passed"
 });
 formatter.match({
@@ -1292,7 +1292,7 @@ formatter.match({
   "location": "searchresultpage.groovy:738"
 });
 formatter.result({
-  "duration": 371486369,
+  "duration": 420483807,
   "status": "passed"
 });
 formatter.match({
@@ -1309,7 +1309,7 @@ formatter.match({
   "location": "searchresultpage.groovy:738"
 });
 formatter.result({
-  "duration": 435853373,
+  "duration": 433924854,
   "status": "passed"
 });
 formatter.match({
@@ -1326,7 +1326,7 @@ formatter.match({
   "location": "searchresultpage.groovy:738"
 });
 formatter.result({
-  "duration": 461378616,
+  "duration": 425596265,
   "status": "passed"
 });
 formatter.match({
@@ -1343,7 +1343,7 @@ formatter.match({
   "location": "searchresultpage.groovy:738"
 });
 formatter.result({
-  "duration": 450606357,
+  "duration": 376832497,
   "status": "passed"
 });
 formatter.match({
@@ -1360,7 +1360,7 @@ formatter.match({
   "location": "searchresultpage.groovy:738"
 });
 formatter.result({
-  "duration": 1702494536,
+  "duration": 379357842,
   "status": "passed"
 });
 formatter.match({
@@ -1377,7 +1377,7 @@ formatter.match({
   "location": "searchresultpage.groovy:738"
 });
 formatter.result({
-  "duration": 417928352,
+  "duration": 357324410,
   "status": "passed"
 });
 formatter.match({
@@ -1394,7 +1394,7 @@ formatter.match({
   "location": "searchresultpage.groovy:738"
 });
 formatter.result({
-  "duration": 657561720,
+  "duration": 422116891,
   "status": "passed"
 });
 formatter.match({
@@ -1411,7 +1411,7 @@ formatter.match({
   "location": "searchresultpage.groovy:738"
 });
 formatter.result({
-  "duration": 464371958,
+  "duration": 1218712310,
   "status": "passed"
 });
 formatter.match({
@@ -1428,7 +1428,7 @@ formatter.match({
   "location": "searchresultpage.groovy:738"
 });
 formatter.result({
-  "duration": 436220680,
+  "duration": 979822062,
   "status": "passed"
 });
 formatter.match({
@@ -1445,7 +1445,7 @@ formatter.match({
   "location": "searchresultpage.groovy:738"
 });
 formatter.result({
-  "duration": 443741571,
+  "duration": 386264852,
   "status": "passed"
 });
 formatter.match({
@@ -1462,7 +1462,7 @@ formatter.match({
   "location": "searchresultpage.groovy:738"
 });
 formatter.result({
-  "duration": 1252298629,
+  "duration": 509038135,
   "status": "passed"
 });
 formatter.match({
@@ -1479,7 +1479,7 @@ formatter.match({
   "location": "searchresultpage.groovy:738"
 });
 formatter.result({
-  "duration": 925528696,
+  "duration": 1353047466,
   "status": "passed"
 });
 formatter.match({
@@ -1496,7 +1496,7 @@ formatter.match({
   "location": "searchresultpage.groovy:738"
 });
 formatter.result({
-  "duration": 484147392,
+  "duration": 421002309,
   "status": "passed"
 });
 formatter.match({
@@ -1513,7 +1513,7 @@ formatter.match({
   "location": "searchresultpage.groovy:738"
 });
 formatter.result({
-  "duration": 422846148,
+  "duration": 427697354,
   "status": "passed"
 });
 formatter.match({
@@ -1530,7 +1530,7 @@ formatter.match({
   "location": "searchresultpage.groovy:738"
 });
 formatter.result({
-  "duration": 548775025,
+  "duration": 470434781,
   "status": "passed"
 });
 formatter.match({
@@ -1547,14 +1547,14 @@ formatter.match({
   "location": "searchresultpage.groovy:738"
 });
 formatter.result({
-  "duration": 455167048,
+  "duration": 471511585,
   "status": "passed"
 });
 formatter.match({
   "location": "sctrachpad.groovy:77"
 });
 formatter.result({
-  "duration": 9714357903,
+  "duration": 8653612234,
   "status": "passed"
 });
 formatter.match({
@@ -1567,25 +1567,25 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 36479664403,
+  "duration": 25179835539,
   "status": "passed"
 });
 formatter.match({
   "location": "searchresultpage.groovy:761"
 });
 formatter.result({
-  "duration": 6510844793,
+  "duration": 6464810256,
   "status": "passed"
 });
 formatter.match({
   "location": "sctrachpad.groovy:77"
 });
 formatter.result({
-  "duration": 11035979993,
+  "duration": 6462024604,
   "status": "passed"
 });
 formatter.after({
-  "duration": 677301,
+  "duration": 1083210,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -1802,7 +1802,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 23454498,
+  "duration": 36093232,
   "status": "passed"
 });
 formatter.scenario({
@@ -1994,14 +1994,14 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 36624437763,
+  "duration": 21394662450,
   "status": "passed"
 });
 formatter.match({
   "location": "basepage.groovy:11"
 });
 formatter.result({
-  "duration": 2191641122,
+  "duration": 1819795553,
   "status": "passed"
 });
 formatter.match({
@@ -2014,7 +2014,7 @@ formatter.match({
   "location": "searchresultpage.groovy:1158"
 });
 formatter.result({
-  "duration": 29822531257,
+  "duration": 33345323534,
   "status": "passed"
 });
 formatter.match({
@@ -2027,7 +2027,7 @@ formatter.match({
   "location": "common_csp.groovy:364"
 });
 formatter.result({
-  "duration": 891640605,
+  "duration": 482434951,
   "status": "passed"
 });
 formatter.match({
@@ -2044,14 +2044,14 @@ formatter.match({
   "location": "common_csp.groovy:349"
 });
 formatter.result({
-  "duration": 3175882868,
+  "duration": 866673857,
   "status": "passed"
 });
 formatter.match({
   "location": "searchresultpage.groovy:761"
 });
 formatter.result({
-  "duration": 9615343930,
+  "duration": 7460837113,
   "status": "passed"
 });
 formatter.match({
@@ -2064,7 +2064,7 @@ formatter.match({
   "location": "searchresultpage.groovy:579"
 });
 formatter.result({
-  "duration": 15424863448,
+  "duration": 9467323944,
   "status": "passed"
 });
 formatter.match({
@@ -2081,7 +2081,7 @@ formatter.match({
   "location": "searchresultpage.groovy:716"
 });
 formatter.result({
-  "duration": 281065616,
+  "duration": 267668102,
   "status": "passed"
 });
 formatter.match({
@@ -2098,7 +2098,7 @@ formatter.match({
   "location": "searchresultpage.groovy:572"
 });
 formatter.result({
-  "duration": 2876762670,
+  "duration": 2747800807,
   "status": "passed"
 });
 formatter.match({
@@ -2115,7 +2115,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 1821266824,
+  "duration": 802953405,
   "status": "passed"
 });
 formatter.match({
@@ -2132,7 +2132,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 743614200,
+  "duration": 715659306,
   "status": "passed"
 });
 formatter.match({
@@ -2145,7 +2145,7 @@ formatter.match({
   "location": "searchresultpage.groovy:1158"
 });
 formatter.result({
-  "duration": 36600500865,
+  "duration": 31387048974,
   "status": "passed"
 });
 formatter.match({
@@ -2158,7 +2158,7 @@ formatter.match({
   "location": "common_csp.groovy:364"
 });
 formatter.result({
-  "duration": 354032639,
+  "duration": 433452213,
   "status": "passed"
 });
 formatter.match({
@@ -2175,7 +2175,7 @@ formatter.match({
   "location": "searchresultpage.groovy:572"
 });
 formatter.result({
-  "duration": 3478484666,
+  "duration": 2955669968,
   "status": "passed"
 });
 formatter.match({
@@ -2192,7 +2192,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 670592737,
+  "duration": 724510220,
   "status": "passed"
 });
 formatter.match({
@@ -2209,7 +2209,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 701550185,
+  "duration": 746103172,
   "status": "passed"
 });
 formatter.match({
@@ -2222,7 +2222,7 @@ formatter.match({
   "location": "common_csp.groovy:356"
 });
 formatter.result({
-  "duration": 3101778918,
+  "duration": 2338316440,
   "status": "passed"
 });
 formatter.match({
@@ -2239,7 +2239,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 792605162,
+  "duration": 816134797,
   "status": "passed"
 });
 formatter.match({
@@ -2256,7 +2256,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 687037549,
+  "duration": 847731906,
   "status": "passed"
 });
 formatter.match({
@@ -2269,7 +2269,7 @@ formatter.match({
   "location": "common_csp.groovy:364"
 });
 formatter.result({
-  "duration": 1919563590,
+  "duration": 1058362172,
   "status": "passed"
 });
 formatter.match({
@@ -2286,7 +2286,7 @@ formatter.match({
   "location": "common_csp.groovy:360"
 });
 formatter.result({
-  "duration": 4042196111,
+  "duration": 5129481963,
   "status": "passed"
 });
 formatter.match({
@@ -2299,7 +2299,7 @@ formatter.match({
   "location": "common_csp.groovy:364"
 });
 formatter.result({
-  "duration": 399563382,
+  "duration": 426637331,
   "status": "passed"
 });
 formatter.match({
@@ -2316,7 +2316,7 @@ formatter.match({
   "location": "searchresultpage.groovy:572"
 });
 formatter.result({
-  "duration": 5614019591,
+  "duration": 4304141622,
   "status": "passed"
 });
 formatter.match({
@@ -2333,7 +2333,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 1751413480,
+  "duration": 794724767,
   "status": "passed"
 });
 formatter.match({
@@ -2350,22 +2350,22 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 774784424,
+  "duration": 784281381,
   "status": "passed"
 });
 formatter.match({
   "location": "sctrachpad.groovy:77"
 });
 formatter.result({
-  "duration": 9367569869,
+  "duration": 6116183716,
   "status": "passed"
 });
 formatter.after({
-  "duration": 521140,
+  "duration": 667815,
   "status": "passed"
 });
 formatter.before({
-  "duration": 34569735,
+  "duration": 31017641,
   "status": "passed"
 });
 formatter.scenario({
@@ -2557,14 +2557,14 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 34520904335,
+  "duration": 24806545849,
   "status": "passed"
 });
 formatter.match({
   "location": "basepage.groovy:11"
 });
 formatter.result({
-  "duration": 1385660306,
+  "duration": 827228734,
   "status": "passed"
 });
 formatter.match({
@@ -2577,7 +2577,7 @@ formatter.match({
   "location": "searchresultpage.groovy:1158"
 });
 formatter.result({
-  "duration": 27531418679,
+  "duration": 24599475445,
   "status": "passed"
 });
 formatter.match({
@@ -2590,7 +2590,7 @@ formatter.match({
   "location": "common_csp.groovy:364"
 });
 formatter.result({
-  "duration": 484407845,
+  "duration": 434924101,
   "status": "passed"
 });
 formatter.match({
@@ -2607,14 +2607,14 @@ formatter.match({
   "location": "common_csp.groovy:349"
 });
 formatter.result({
-  "duration": 957976665,
+  "duration": 941627435,
   "status": "passed"
 });
 formatter.match({
   "location": "searchresultpage.groovy:761"
 });
 formatter.result({
-  "duration": 5105359157,
+  "duration": 7572803414,
   "status": "passed"
 });
 formatter.match({
@@ -2627,7 +2627,7 @@ formatter.match({
   "location": "searchresultpage.groovy:579"
 });
 formatter.result({
-  "duration": 24923654539,
+  "duration": 23920571460,
   "status": "passed"
 });
 formatter.match({
@@ -2644,7 +2644,7 @@ formatter.match({
   "location": "searchresultpage.groovy:716"
 });
 formatter.result({
-  "duration": 344329552,
+  "duration": 280088447,
   "status": "passed"
 });
 formatter.match({
@@ -2661,7 +2661,7 @@ formatter.match({
   "location": "searchresultpage.groovy:572"
 });
 formatter.result({
-  "duration": 3110228989,
+  "duration": 4174378834,
   "status": "passed"
 });
 formatter.match({
@@ -2678,7 +2678,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 677270144,
+  "duration": 734457075,
   "status": "passed"
 });
 formatter.match({
@@ -2695,7 +2695,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 633710055,
+  "duration": 724224964,
   "status": "passed"
 });
 formatter.match({
@@ -2708,7 +2708,7 @@ formatter.match({
   "location": "searchresultpage.groovy:1158"
 });
 formatter.result({
-  "duration": 25432938323,
+  "duration": 25841497578,
   "status": "passed"
 });
 formatter.match({
@@ -2721,7 +2721,7 @@ formatter.match({
   "location": "common_csp.groovy:364"
 });
 formatter.result({
-  "duration": 423030920,
+  "duration": 2325536402,
   "status": "passed"
 });
 formatter.match({
@@ -2738,7 +2738,7 @@ formatter.match({
   "location": "searchresultpage.groovy:572"
 });
 formatter.result({
-  "duration": 4843539041,
+  "duration": 6181896881,
   "status": "passed"
 });
 formatter.match({
@@ -2755,7 +2755,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 703578189,
+  "duration": 782944406,
   "status": "passed"
 });
 formatter.match({
@@ -2772,7 +2772,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 1603100438,
+  "duration": 890290125,
   "status": "passed"
 });
 formatter.match({
@@ -2785,7 +2785,7 @@ formatter.match({
   "location": "common_csp.groovy:356"
 });
 formatter.result({
-  "duration": 2287200991,
+  "duration": 4253837360,
   "status": "passed"
 });
 formatter.match({
@@ -2802,7 +2802,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 713433319,
+  "duration": 727298457,
   "status": "passed"
 });
 formatter.match({
@@ -2819,7 +2819,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 754785283,
+  "duration": 783221739,
   "status": "passed"
 });
 formatter.match({
@@ -2832,7 +2832,7 @@ formatter.match({
   "location": "common_csp.groovy:364"
 });
 formatter.result({
-  "duration": 1896742629,
+  "duration": 968587932,
   "status": "passed"
 });
 formatter.match({
@@ -2849,7 +2849,7 @@ formatter.match({
   "location": "common_csp.groovy:360"
 });
 formatter.result({
-  "duration": 6065075165,
+  "duration": 13814743550,
   "status": "passed"
 });
 formatter.match({
@@ -2862,7 +2862,7 @@ formatter.match({
   "location": "common_csp.groovy:364"
 });
 formatter.result({
-  "duration": 432064865,
+  "duration": 1118143137,
   "status": "passed"
 });
 formatter.match({
@@ -2879,7 +2879,7 @@ formatter.match({
   "location": "searchresultpage.groovy:572"
 });
 formatter.result({
-  "duration": 3672092993,
+  "duration": 3387411579,
   "status": "passed"
 });
 formatter.match({
@@ -2896,7 +2896,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 632201016,
+  "duration": 1357190233,
   "status": "passed"
 });
 formatter.match({
@@ -2913,22 +2913,22 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 1787199290,
+  "duration": 838300288,
   "status": "passed"
 });
 formatter.match({
   "location": "sctrachpad.groovy:77"
 });
 formatter.result({
-  "duration": 8747878688,
+  "duration": 8320729198,
   "status": "passed"
 });
 formatter.after({
-  "duration": 506608,
+  "duration": 680557,
   "status": "passed"
 });
 formatter.before({
-  "duration": 24262145,
+  "duration": 29852978,
   "status": "passed"
 });
 formatter.scenario({
@@ -3120,14 +3120,14 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 32409954490,
+  "duration": 21821727749,
   "status": "passed"
 });
 formatter.match({
   "location": "basepage.groovy:11"
 });
 formatter.result({
-  "duration": 1133904295,
+  "duration": 1678623181,
   "status": "passed"
 });
 formatter.match({
@@ -3140,7 +3140,7 @@ formatter.match({
   "location": "searchresultpage.groovy:1158"
 });
 formatter.result({
-  "duration": 56300512511,
+  "duration": 39386545281,
   "status": "passed"
 });
 formatter.match({
@@ -3153,7 +3153,7 @@ formatter.match({
   "location": "common_csp.groovy:364"
 });
 formatter.result({
-  "duration": 394944350,
+  "duration": 2474552292,
   "status": "passed"
 });
 formatter.match({
@@ -3170,14 +3170,14 @@ formatter.match({
   "location": "common_csp.groovy:349"
 });
 formatter.result({
-  "duration": 816160314,
+  "duration": 910693373,
   "status": "passed"
 });
 formatter.match({
   "location": "searchresultpage.groovy:761"
 });
 formatter.result({
-  "duration": 5986571010,
+  "duration": 5290469322,
   "status": "passed"
 });
 formatter.match({
@@ -3190,7 +3190,7 @@ formatter.match({
   "location": "searchresultpage.groovy:579"
 });
 formatter.result({
-  "duration": 39247140545,
+  "duration": 40446171189,
   "status": "passed"
 });
 formatter.match({
@@ -3207,7 +3207,7 @@ formatter.match({
   "location": "searchresultpage.groovy:716"
 });
 formatter.result({
-  "duration": 335479975,
+  "duration": 295540345,
   "status": "passed"
 });
 formatter.match({
@@ -3224,7 +3224,7 @@ formatter.match({
   "location": "searchresultpage.groovy:572"
 });
 formatter.result({
-  "duration": 3031343027,
+  "duration": 2955334269,
   "status": "passed"
 });
 formatter.match({
@@ -3241,7 +3241,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 664116694,
+  "duration": 908516051,
   "status": "passed"
 });
 formatter.match({
@@ -3258,7 +3258,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 716171314,
+  "duration": 964649578,
   "status": "passed"
 });
 formatter.match({
@@ -3271,7 +3271,7 @@ formatter.match({
   "location": "searchresultpage.groovy:1158"
 });
 formatter.result({
-  "duration": 30752402427,
+  "duration": 32761057298,
   "status": "passed"
 });
 formatter.match({
@@ -3284,7 +3284,7 @@ formatter.match({
   "location": "common_csp.groovy:364"
 });
 formatter.result({
-  "duration": 486048606,
+  "duration": 443931579,
   "status": "passed"
 });
 formatter.match({
@@ -3301,7 +3301,7 @@ formatter.match({
   "location": "searchresultpage.groovy:572"
 });
 formatter.result({
-  "duration": 3633551100,
+  "duration": 3317041938,
   "status": "passed"
 });
 formatter.match({
@@ -3318,7 +3318,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 1581956071,
+  "duration": 3299168302,
   "status": "passed"
 });
 formatter.match({
@@ -3335,7 +3335,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 1692665430,
+  "duration": 2548306575,
   "status": "passed"
 });
 formatter.match({
@@ -3348,7 +3348,7 @@ formatter.match({
   "location": "common_csp.groovy:356"
 });
 formatter.result({
-  "duration": 3516735468,
+  "duration": 4798578378,
   "status": "passed"
 });
 formatter.match({
@@ -3365,7 +3365,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 1793780123,
+  "duration": 1201871139,
   "status": "passed"
 });
 formatter.match({
@@ -3382,7 +3382,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 764668850,
+  "duration": 1467992233,
   "status": "passed"
 });
 formatter.match({
@@ -3395,7 +3395,7 @@ formatter.match({
   "location": "common_csp.groovy:364"
 });
 formatter.result({
-  "duration": 1210743266,
+  "duration": 942107266,
   "status": "passed"
 });
 formatter.match({
@@ -3412,7 +3412,7 @@ formatter.match({
   "location": "common_csp.groovy:360"
 });
 formatter.result({
-  "duration": 8680626754,
+  "duration": 5452831559,
   "status": "passed"
 });
 formatter.match({
@@ -3425,7 +3425,7 @@ formatter.match({
   "location": "common_csp.groovy:364"
 });
 formatter.result({
-  "duration": 486992313,
+  "duration": 426015057,
   "status": "passed"
 });
 formatter.match({
@@ -3442,7 +3442,7 @@ formatter.match({
   "location": "searchresultpage.groovy:572"
 });
 formatter.result({
-  "duration": 4702890762,
+  "duration": 3203323432,
   "status": "passed"
 });
 formatter.match({
@@ -3459,7 +3459,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 1074380369,
+  "duration": 929269495,
   "status": "passed"
 });
 formatter.match({
@@ -3476,22 +3476,22 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 833863482,
+  "duration": 777117160,
   "status": "passed"
 });
 formatter.match({
   "location": "sctrachpad.groovy:77"
 });
 formatter.result({
-  "duration": 7959665563,
+  "duration": 9886299930,
   "status": "passed"
 });
 formatter.after({
-  "duration": 562620,
+  "duration": 663104,
   "status": "passed"
 });
 formatter.before({
-  "duration": 23541155,
+  "duration": 31215682,
   "status": "passed"
 });
 formatter.scenario({
@@ -3683,14 +3683,14 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 34407095002,
+  "duration": 23690340241,
   "status": "passed"
 });
 formatter.match({
   "location": "basepage.groovy:11"
 });
 formatter.result({
-  "duration": 2277864809,
+  "duration": 918714205,
   "status": "passed"
 });
 formatter.match({
@@ -3703,7 +3703,7 @@ formatter.match({
   "location": "searchresultpage.groovy:1158"
 });
 formatter.result({
-  "duration": 28721881254,
+  "duration": 29097371847,
   "status": "passed"
 });
 formatter.match({
@@ -3716,7 +3716,7 @@ formatter.match({
   "location": "common_csp.groovy:364"
 });
 formatter.result({
-  "duration": 1647929985,
+  "duration": 420021650,
   "status": "passed"
 });
 formatter.match({
@@ -3733,14 +3733,14 @@ formatter.match({
   "location": "common_csp.groovy:349"
 });
 formatter.result({
-  "duration": 1613221183,
+  "duration": 907481462,
   "status": "passed"
 });
 formatter.match({
   "location": "searchresultpage.groovy:761"
 });
 formatter.result({
-  "duration": 6169911385,
+  "duration": 6645764794,
   "status": "passed"
 });
 formatter.match({
@@ -3753,7 +3753,7 @@ formatter.match({
   "location": "searchresultpage.groovy:579"
 });
 formatter.result({
-  "duration": 43902190471,
+  "duration": 51748019232,
   "status": "passed"
 });
 formatter.match({
@@ -3770,7 +3770,7 @@ formatter.match({
   "location": "searchresultpage.groovy:716"
 });
 formatter.result({
-  "duration": 287220964,
+  "duration": 299825145,
   "status": "passed"
 });
 formatter.match({
@@ -3787,7 +3787,7 @@ formatter.match({
   "location": "searchresultpage.groovy:572"
 });
 formatter.result({
-  "duration": 2829751541,
+  "duration": 3216124394,
   "status": "passed"
 });
 formatter.match({
@@ -3804,7 +3804,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 736324462,
+  "duration": 823186625,
   "status": "passed"
 });
 formatter.match({
@@ -3821,7 +3821,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 701104042,
+  "duration": 2549864416,
   "status": "passed"
 });
 formatter.match({
@@ -3834,7 +3834,7 @@ formatter.match({
   "location": "searchresultpage.groovy:1158"
 });
 formatter.result({
-  "duration": 32943772780,
+  "duration": 33043521506,
   "status": "passed"
 });
 formatter.match({
@@ -3847,7 +3847,7 @@ formatter.match({
   "location": "common_csp.groovy:364"
 });
 formatter.result({
-  "duration": 407849305,
+  "duration": 519837810,
   "status": "passed"
 });
 formatter.match({
@@ -3864,7 +3864,7 @@ formatter.match({
   "location": "searchresultpage.groovy:572"
 });
 formatter.result({
-  "duration": 4217186187,
+  "duration": 4948468144,
   "status": "passed"
 });
 formatter.match({
@@ -3881,7 +3881,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 706159838,
+  "duration": 780782567,
   "status": "passed"
 });
 formatter.match({
@@ -3898,7 +3898,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 1435996039,
+  "duration": 894832998,
   "status": "passed"
 });
 formatter.match({
@@ -3911,7 +3911,7 @@ formatter.match({
   "location": "common_csp.groovy:356"
 });
 formatter.result({
-  "duration": 2851636326,
+  "duration": 2961564273,
   "status": "passed"
 });
 formatter.match({
@@ -3928,7 +3928,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 1078203995,
+  "duration": 948726281,
   "status": "passed"
 });
 formatter.match({
@@ -3945,7 +3945,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 940674578,
+  "duration": 895042322,
   "status": "passed"
 });
 formatter.match({
@@ -3958,7 +3958,7 @@ formatter.match({
   "location": "common_csp.groovy:364"
 });
 formatter.result({
-  "duration": 987723621,
+  "duration": 877109666,
   "status": "passed"
 });
 formatter.match({
@@ -3975,7 +3975,7 @@ formatter.match({
   "location": "common_csp.groovy:360"
 });
 formatter.result({
-  "duration": 5825883770,
+  "duration": 4644216512,
   "status": "passed"
 });
 formatter.match({
@@ -3988,7 +3988,7 @@ formatter.match({
   "location": "common_csp.groovy:364"
 });
 formatter.result({
-  "duration": 487606054,
+  "duration": 448201737,
   "status": "passed"
 });
 formatter.match({
@@ -4005,7 +4005,7 @@ formatter.match({
   "location": "searchresultpage.groovy:572"
 });
 formatter.result({
-  "duration": 3105461472,
+  "duration": 3867718182,
   "status": "passed"
 });
 formatter.match({
@@ -4022,7 +4022,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 1298109563,
+  "duration": 862985569,
   "status": "passed"
 });
 formatter.match({
@@ -4039,22 +4039,22 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 1889048524,
+  "duration": 801259009,
   "status": "passed"
 });
 formatter.match({
   "location": "sctrachpad.groovy:77"
 });
 formatter.result({
-  "duration": 9678941962,
+  "duration": 9504091938,
   "status": "passed"
 });
 formatter.after({
-  "duration": 743936,
+  "duration": 648484,
   "status": "passed"
 });
 formatter.before({
-  "duration": 34810556,
+  "duration": 28702301,
   "status": "passed"
 });
 formatter.scenario({
@@ -4231,14 +4231,14 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 35960299395,
+  "duration": 25454667877,
   "status": "passed"
 });
 formatter.match({
   "location": "basepage.groovy:11"
 });
 formatter.result({
-  "duration": 890211593,
+  "duration": 1033148131,
   "status": "passed"
 });
 formatter.match({
@@ -4251,7 +4251,7 @@ formatter.match({
   "location": "searchresultpage.groovy:1158"
 });
 formatter.result({
-  "duration": 30465588333,
+  "duration": 30855955194,
   "status": "passed"
 });
 formatter.match({
@@ -4264,7 +4264,7 @@ formatter.match({
   "location": "common_csp.groovy:364"
 });
 formatter.result({
-  "duration": 417973005,
+  "duration": 508714958,
   "status": "passed"
 });
 formatter.match({
@@ -4281,14 +4281,14 @@ formatter.match({
   "location": "common_csp.groovy:349"
 });
 formatter.result({
-  "duration": 2274619486,
+  "duration": 1049501198,
   "status": "passed"
 });
 formatter.match({
   "location": "searchresultpage.groovy:761"
 });
 formatter.result({
-  "duration": 5541870327,
+  "duration": 5923017701,
   "status": "passed"
 });
 formatter.match({
@@ -4301,7 +4301,7 @@ formatter.match({
   "location": "searchresultpage.groovy:579"
 });
 formatter.result({
-  "duration": 20204842559,
+  "duration": 26645738430,
   "status": "passed"
 });
 formatter.match({
@@ -4318,7 +4318,7 @@ formatter.match({
   "location": "searchresultpage.groovy:716"
 });
 formatter.result({
-  "duration": 259597286,
+  "duration": 316310675,
   "status": "passed"
 });
 formatter.match({
@@ -4335,7 +4335,7 @@ formatter.match({
   "location": "searchresultpage.groovy:572"
 });
 formatter.result({
-  "duration": 2682103643,
+  "duration": 5006365141,
   "status": "passed"
 });
 formatter.match({
@@ -4352,7 +4352,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 857443481,
+  "duration": 936480082,
   "status": "passed"
 });
 formatter.match({
@@ -4369,7 +4369,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 791206676,
+  "duration": 984391805,
   "status": "passed"
 });
 formatter.match({
@@ -4386,7 +4386,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 720254558,
+  "duration": 860403659,
   "status": "passed"
 });
 formatter.match({
@@ -4403,7 +4403,7 @@ formatter.match({
   "location": "searchresultpage.groovy:738"
 });
 formatter.result({
-  "duration": 916205153,
+  "duration": 376623571,
   "status": "passed"
 });
 formatter.match({
@@ -4420,7 +4420,7 @@ formatter.match({
   "location": "searchresultpage.groovy:738"
 });
 formatter.result({
-  "duration": 1516606369,
+  "duration": 410200021,
   "status": "passed"
 });
 formatter.match({
@@ -4437,7 +4437,7 @@ formatter.match({
   "location": "searchresultpage.groovy:738"
 });
 formatter.result({
-  "duration": 428640933,
+  "duration": 391115834,
   "status": "passed"
 });
 formatter.match({
@@ -4454,7 +4454,7 @@ formatter.match({
   "location": "searchresultpage.groovy:738"
 });
 formatter.result({
-  "duration": 390949403,
+  "duration": 427640582,
   "status": "passed"
 });
 formatter.match({
@@ -4471,7 +4471,7 @@ formatter.match({
   "location": "searchresultpage.groovy:738"
 });
 formatter.result({
-  "duration": 1414205206,
+  "duration": 438693949,
   "status": "passed"
 });
 formatter.match({
@@ -4488,7 +4488,7 @@ formatter.match({
   "location": "searchresultpage.groovy:738"
 });
 formatter.result({
-  "duration": 377369453,
+  "duration": 456682293,
   "status": "passed"
 });
 formatter.match({
@@ -4505,7 +4505,7 @@ formatter.match({
   "location": "searchresultpage.groovy:738"
 });
 formatter.result({
-  "duration": 391396034,
+  "duration": 555764226,
   "status": "passed"
 });
 formatter.match({
@@ -4522,14 +4522,14 @@ formatter.match({
   "location": "searchresultpage.groovy:738"
 });
 formatter.result({
-  "duration": 401777707,
+  "duration": 587952132,
   "status": "passed"
 });
 formatter.match({
   "location": "sctrachpad.groovy:77"
 });
 formatter.result({
-  "duration": 8673995969,
+  "duration": 8161130328,
   "status": "passed"
 });
 formatter.match({
@@ -4542,7 +4542,7 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 34588204439,
+  "duration": 23615327602,
   "status": "passed"
 });
 formatter.match({
@@ -4555,7 +4555,7 @@ formatter.match({
   "location": "searchresultpage.groovy:1158"
 });
 formatter.result({
-  "duration": 30750179968,
+  "duration": 28582968200,
   "status": "passed"
 });
 formatter.match({
@@ -4568,29 +4568,29 @@ formatter.match({
   "location": "common_csp.groovy:364"
 });
 formatter.result({
-  "duration": 358271245,
+  "duration": 424580748,
   "status": "passed"
 });
 formatter.match({
   "location": "searchresultpage.groovy:761"
 });
 formatter.result({
-  "duration": 6599159229,
+  "duration": 7784770167,
   "status": "passed"
 });
 formatter.match({
   "location": "sctrachpad.groovy:77"
 });
 formatter.result({
-  "duration": 7973702032,
+  "duration": 6817465748,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1161265,
+  "duration": 771225,
   "status": "passed"
 });
 formatter.before({
-  "duration": 35082936,
+  "duration": 32383609,
   "status": "passed"
 });
 formatter.scenario({
@@ -4702,14 +4702,14 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 35386612231,
+  "duration": 24310779376,
   "status": "passed"
 });
 formatter.match({
   "location": "basepage.groovy:11"
 });
 formatter.result({
-  "duration": 1066925911,
+  "duration": 915411285,
   "status": "passed"
 });
 formatter.match({
@@ -4722,7 +4722,7 @@ formatter.match({
   "location": "categorynavigation.groovy:273"
 });
 formatter.result({
-  "duration": 207217211977,
+  "duration": 211017991516,
   "error_message": "geb.waiting.WaitTimeoutException: condition did not pass in 180.0 seconds\n\tat geb.waiting.Wait.waitFor(Wait.groovy:138)\n\tat geb.waiting.Wait$waitFor.call(Unknown Source)\n\tat geb.waiting.DefaultWaitingSupport.doWaitFor(DefaultWaitingSupport.groovy:51)\n\tat geb.waiting.DefaultWaitingSupport.waitFor(DefaultWaitingSupport.groovy:46)\n\tat geb.waiting.WaitingSupport$waitFor.call(Unknown Source)\n\tat geb.Page.waitFor(Page.groovy:516)\n\tat geb.Page.waitFor(Page.groovy)\n\tat geb.Browser.methodMissing(Browser.groovy:206)\n\tat geb.Browser.invokeMethod(Browser.groovy)\n\tat functionlib.Elements$_waitforspinner_closure11.doCall(Elements.groovy:341)\n\tat functionlib.Elements$_waitforspinner_closure11.doCall(Elements.groovy)\n\tat geb.Browser.drive(Browser.groovy:1061)\n\tat geb.Browser$drive$1.callStatic(Unknown Source)\n\tat geb.Browser.drive(Browser.groovy:1031)\n\tat geb.Browser$drive$0.call(Unknown Source)\n\tat functionlib.Elements.waitforspinner(Elements.groovy:339)\n\tat functionlib.Elements$_click_object_closure14.doCall(Elements.groovy:657)\n\tat functionlib.Elements$_click_object_closure14.doCall(Elements.groovy)\n\tat geb.Browser.drive(Browser.groovy:1061)\n\tat geb.Browser$drive$1.callStatic(Unknown Source)\n\tat geb.Browser$drive$1.callStatic(Unknown Source)\n\tat geb.Browser.drive(Browser.groovy:1031)\n\tat geb.Browser$drive$0.call(Unknown Source)\n\tat functionlib.Elements.click_object(Elements.groovy:651)\n\tat functionlib.Elements$click_object$4.call(Unknown Source)\n\tat steps.header.categorynavigation$_run_closure41$_closure92.doCall(categorynavigation.groovy:282)\n\tat ✽.And I select 0 item from products menu(navigation/Common.feature:201)\n",
   "status": "failed"
 });
@@ -4852,11 +4852,11 @@ formatter.result({
 });
 formatter.embedding("image/png", "embedded0.png");
 formatter.after({
-  "duration": 1954604645,
+  "duration": 1211538938,
   "status": "passed"
 });
 formatter.before({
-  "duration": 24898535,
+  "duration": 32602223,
   "status": "passed"
 });
 formatter.scenario({
@@ -4968,14 +4968,14 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 37758290865,
+  "duration": 25552763368,
   "status": "passed"
 });
 formatter.match({
   "location": "basepage.groovy:11"
 });
 formatter.result({
-  "duration": 762234244,
+  "duration": 961505830,
   "status": "passed"
 });
 formatter.match({
@@ -4988,7 +4988,7 @@ formatter.match({
   "location": "categorynavigation.groovy:273"
 });
 formatter.result({
-  "duration": 28166329751,
+  "duration": 37285031521,
   "status": "passed"
 });
 formatter.match({
@@ -5001,14 +5001,14 @@ formatter.match({
   "location": "basepage.groovy:186"
 });
 formatter.result({
-  "duration": 942759981,
+  "duration": 1127806854,
   "status": "passed"
 });
 formatter.match({
   "location": "productnavmenudisplayflag.groovy:30"
 });
 formatter.result({
-  "duration": 65098579352,
+  "duration": 71626388533,
   "status": "passed"
 });
 formatter.match({
@@ -5021,7 +5021,7 @@ formatter.match({
   "location": "common_csp.groovy:334"
 });
 formatter.result({
-  "duration": 2084557989,
+  "duration": 1394291244,
   "status": "passed"
 });
 formatter.match({
@@ -5042,7 +5042,7 @@ formatter.match({
   "location": "changeaccountsubmit.groovy:92"
 });
 formatter.result({
-  "duration": 1271046222,
+  "duration": 1273677510,
   "status": "passed"
 });
 formatter.match({
@@ -5055,7 +5055,7 @@ formatter.match({
   "location": "searchresultpage.groovy:1158"
 });
 formatter.result({
-  "duration": 33339926275,
+  "duration": 40416460214,
   "status": "passed"
 });
 formatter.match({
@@ -5068,7 +5068,7 @@ formatter.match({
   "location": "common_csp.groovy:364"
 });
 formatter.result({
-  "duration": 428724989,
+  "duration": 1066042856,
   "status": "passed"
 });
 formatter.match({
@@ -5085,7 +5085,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 771262932,
+  "duration": 1122688075,
   "status": "passed"
 });
 formatter.match({
@@ -5102,7 +5102,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 784487218,
+  "duration": 1148209470,
   "status": "passed"
 });
 formatter.match({
@@ -5119,22 +5119,22 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 931531725,
+  "duration": 1017617176,
   "status": "passed"
 });
 formatter.match({
   "location": "sctrachpad.groovy:77"
 });
 formatter.result({
-  "duration": 8471720022,
+  "duration": 10516944812,
   "status": "passed"
 });
 formatter.after({
-  "duration": 508765,
+  "duration": 634956,
   "status": "passed"
 });
 formatter.before({
-  "duration": 24597111,
+  "duration": 34068126,
   "status": "passed"
 });
 formatter.scenario({
@@ -5281,14 +5281,14 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 38196324591,
+  "duration": 25123310789,
   "status": "passed"
 });
 formatter.match({
   "location": "basepage.groovy:11"
 });
 formatter.result({
-  "duration": 1837286441,
+  "duration": 979788232,
   "status": "passed"
 });
 formatter.match({
@@ -5301,7 +5301,7 @@ formatter.match({
   "location": "categorynavigation.groovy:273"
 });
 formatter.result({
-  "duration": 31504073477,
+  "duration": 30492115279,
   "status": "passed"
 });
 formatter.match({
@@ -5314,14 +5314,14 @@ formatter.match({
   "location": "basepage.groovy:186"
 });
 formatter.result({
-  "duration": 1406929258,
+  "duration": 1020862061,
   "status": "passed"
 });
 formatter.match({
   "location": "productnavmenudisplayflag.groovy:30"
 });
 formatter.result({
-  "duration": 57745889279,
+  "duration": 62012558770,
   "status": "passed"
 });
 formatter.match({
@@ -5334,7 +5334,7 @@ formatter.match({
   "location": "common_csp.groovy:334"
 });
 formatter.result({
-  "duration": 1770605062,
+  "duration": 905256097,
   "status": "passed"
 });
 formatter.match({
@@ -5351,7 +5351,7 @@ formatter.match({
   "location": "changeaccountsubmit.groovy:80"
 });
 formatter.result({
-  "duration": 4688930684,
+  "duration": 4460013115,
   "status": "passed"
 });
 formatter.match({
@@ -5368,7 +5368,7 @@ formatter.match({
   "location": "changeaccountsubmit.groovy:80"
 });
 formatter.result({
-  "duration": 3235667341,
+  "duration": 3260803076,
   "status": "passed"
 });
 formatter.match({
@@ -5381,7 +5381,7 @@ formatter.match({
   "location": "searchresultpage.groovy:1158"
 });
 formatter.result({
-  "duration": 27839602988,
+  "duration": 37922866733,
   "status": "passed"
 });
 formatter.match({
@@ -5402,7 +5402,7 @@ formatter.match({
   "location": "common_csp.groovy:442"
 });
 formatter.result({
-  "duration": 2554976036,
+  "duration": 3862427653,
   "status": "passed"
 });
 formatter.match({
@@ -5415,7 +5415,7 @@ formatter.match({
   "location": "common_csp.groovy:364"
 });
 formatter.result({
-  "duration": 4446141314,
+  "duration": 4448816877,
   "status": "passed"
 });
 formatter.match({
@@ -5432,7 +5432,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 867658955,
+  "duration": 2301403586,
   "status": "passed"
 });
 formatter.match({
@@ -5449,7 +5449,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 817235976,
+  "duration": 814821571,
   "status": "passed"
 });
 formatter.match({
@@ -5466,7 +5466,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 2025004545,
+  "duration": 2392414137,
   "status": "passed"
 });
 formatter.match({
@@ -5483,7 +5483,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 873879342,
+  "duration": 865655562,
   "status": "passed"
 });
 formatter.match({
@@ -5500,7 +5500,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 1177371173,
+  "duration": 778086910,
   "status": "passed"
 });
 formatter.match({
@@ -5517,7 +5517,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 772162639,
+  "duration": 787649960,
   "status": "passed"
 });
 formatter.match({
@@ -5534,7 +5534,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 935839312,
+  "duration": 990887333,
   "status": "passed"
 });
 formatter.match({
@@ -5551,22 +5551,22 @@ formatter.match({
   "location": "common_csp.groovy:389"
 });
 formatter.result({
-  "duration": 30170752361,
+  "duration": 30193758808,
   "status": "passed"
 });
 formatter.match({
   "location": "sctrachpad.groovy:77"
 });
 formatter.result({
-  "duration": 8192911117,
+  "duration": 8080985400,
   "status": "passed"
 });
 formatter.after({
-  "duration": 566630,
+  "duration": 891588,
   "status": "passed"
 });
 formatter.before({
-  "duration": 25093451,
+  "duration": 33699593,
   "status": "passed"
 });
 formatter.scenario({
@@ -5723,14 +5723,14 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 28510661893,
+  "duration": 19064237522,
   "status": "passed"
 });
 formatter.match({
   "location": "basepage.groovy:11"
 });
 formatter.result({
-  "duration": 1900757205,
+  "duration": 943277922,
   "status": "passed"
 });
 formatter.match({
@@ -5743,7 +5743,7 @@ formatter.match({
   "location": "categorynavigation.groovy:273"
 });
 formatter.result({
-  "duration": 29354398505,
+  "duration": 29497656340,
   "status": "passed"
 });
 formatter.match({
@@ -5756,21 +5756,21 @@ formatter.match({
   "location": "basepage.groovy:186"
 });
 formatter.result({
-  "duration": 1128079842,
+  "duration": 1042477122,
   "status": "passed"
 });
 formatter.match({
   "location": "productnavmenudisplayflag.groovy:58"
 });
 formatter.result({
-  "duration": 80004170272,
+  "duration": 82638002571,
   "status": "passed"
 });
 formatter.match({
   "location": "productnavmenudisplayflag.groovy:30"
 });
 formatter.result({
-  "duration": 53234730283,
+  "duration": 53306290436,
   "status": "passed"
 });
 formatter.match({
@@ -5783,7 +5783,7 @@ formatter.match({
   "location": "common_csp.groovy:334"
 });
 formatter.result({
-  "duration": 1583277334,
+  "duration": 883032780,
   "status": "passed"
 });
 formatter.match({
@@ -5800,7 +5800,7 @@ formatter.match({
   "location": "changeaccountsubmit.groovy:80"
 });
 formatter.result({
-  "duration": 3199782316,
+  "duration": 6936314051,
   "status": "passed"
 });
 formatter.match({
@@ -5817,7 +5817,7 @@ formatter.match({
   "location": "changeaccountsubmit.groovy:80"
 });
 formatter.result({
-  "duration": 4324860915,
+  "duration": 4008363903,
   "status": "passed"
 });
 formatter.match({
@@ -5830,7 +5830,7 @@ formatter.match({
   "location": "searchresultpage.groovy:1158"
 });
 formatter.result({
-  "duration": 27739883466,
+  "duration": 36351926368,
   "status": "passed"
 });
 formatter.match({
@@ -5851,7 +5851,7 @@ formatter.match({
   "location": "common_csp.groovy:442"
 });
 formatter.result({
-  "duration": 3781114800,
+  "duration": 6419956590,
   "status": "passed"
 });
 formatter.match({
@@ -5864,7 +5864,7 @@ formatter.match({
   "location": "common_csp.groovy:364"
 });
 formatter.result({
-  "duration": 5691861518,
+  "duration": 5841306045,
   "status": "passed"
 });
 formatter.match({
@@ -5881,7 +5881,7 @@ formatter.match({
   "location": "common_csp.groovy:389"
 });
 formatter.result({
-  "duration": 27936695466,
+  "duration": 34045875479,
   "status": "passed"
 });
 formatter.match({
@@ -5898,7 +5898,7 @@ formatter.match({
   "location": "common_csp.groovy:389"
 });
 formatter.result({
-  "duration": 25385056517,
+  "duration": 31336265999,
   "status": "passed"
 });
 formatter.match({
@@ -5915,7 +5915,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 719612023,
+  "duration": 798579036,
   "status": "passed"
 });
 formatter.match({
@@ -5932,7 +5932,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 664813237,
+  "duration": 709313232,
   "status": "passed"
 });
 formatter.match({
@@ -5949,7 +5949,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 734628008,
+  "duration": 753791545,
   "status": "passed"
 });
 formatter.match({
@@ -5966,7 +5966,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 747975081,
+  "duration": 1034151372,
   "status": "passed"
 });
 formatter.match({
@@ -5983,7 +5983,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 665152788,
+  "duration": 858002101,
   "status": "passed"
 });
 formatter.match({
@@ -6000,7 +6000,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 1684756878,
+  "duration": 827704152,
   "status": "passed"
 });
 formatter.match({
@@ -6017,22 +6017,22 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 808815425,
+  "duration": 838909630,
   "status": "passed"
 });
 formatter.match({
   "location": "sctrachpad.groovy:77"
 });
 formatter.result({
-  "duration": 6657195627,
+  "duration": 6721673697,
   "status": "passed"
 });
 formatter.after({
-  "duration": 636958,
+  "duration": 726523,
   "status": "passed"
 });
 formatter.before({
-  "duration": 37635007,
+  "duration": 39852714,
   "status": "passed"
 });
 formatter.scenario({
@@ -6154,14 +6154,14 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 32179665952,
+  "duration": 21183803359,
   "status": "passed"
 });
 formatter.match({
   "location": "basepage.groovy:11"
 });
 formatter.result({
-  "duration": 872242176,
+  "duration": 1074549026,
   "status": "passed"
 });
 formatter.match({
@@ -6174,7 +6174,7 @@ formatter.match({
   "location": "categorynavigation.groovy:273"
 });
 formatter.result({
-  "duration": 27929688018,
+  "duration": 27169829819,
   "status": "passed"
 });
 formatter.match({
@@ -6187,14 +6187,14 @@ formatter.match({
   "location": "basepage.groovy:186"
 });
 formatter.result({
-  "duration": 1027860354,
+  "duration": 936502962,
   "status": "passed"
 });
 formatter.match({
   "location": "productnavmenudisplayflag.groovy:30"
 });
 formatter.result({
-  "duration": 47616014935,
+  "duration": 52736701540,
   "status": "passed"
 });
 formatter.match({
@@ -6207,7 +6207,7 @@ formatter.match({
   "location": "common_csp.groovy:334"
 });
 formatter.result({
-  "duration": 1275540754,
+  "duration": 949152448,
   "status": "passed"
 });
 formatter.match({
@@ -6228,7 +6228,7 @@ formatter.match({
   "location": "changeaccountsubmit.groovy:92"
 });
 formatter.result({
-  "duration": 1242400520,
+  "duration": 1217315236,
   "status": "passed"
 });
 formatter.match({
@@ -6249,7 +6249,7 @@ formatter.match({
   "location": "changeaccountsubmit.groovy:92"
 });
 formatter.result({
-  "duration": 1629138086,
+  "duration": 1427880050,
   "status": "passed"
 });
 formatter.match({
@@ -6262,7 +6262,7 @@ formatter.match({
   "location": "common_csp.groovy:364"
 });
 formatter.result({
-  "duration": 1113072179,
+  "duration": 867319711,
   "status": "passed"
 });
 formatter.match({
@@ -6283,7 +6283,7 @@ formatter.match({
   "location": "common_csp.groovy:109"
 });
 formatter.result({
-  "duration": 11860344953,
+  "duration": 15014864629,
   "status": "passed"
 });
 formatter.match({
@@ -6304,7 +6304,7 @@ formatter.match({
   "location": "searchresultpage.groovy:1221"
 });
 formatter.result({
-  "duration": 5030902923,
+  "duration": 8129542691,
   "status": "passed"
 });
 formatter.match({
@@ -6317,7 +6317,7 @@ formatter.match({
   "location": "common_csp.groovy:374"
 });
 formatter.result({
-  "duration": 141921188,
+  "duration": 156418172,
   "status": "passed"
 });
 formatter.match({
@@ -6334,7 +6334,7 @@ formatter.match({
   "location": "searchresultpage.groovy:1182"
 });
 formatter.result({
-  "duration": 5595419886,
+  "duration": 6943671838,
   "status": "passed"
 });
 formatter.match({
@@ -6347,22 +6347,22 @@ formatter.match({
   "location": "common_csp.groovy:380"
 });
 formatter.result({
-  "duration": 240034076,
+  "duration": 282979753,
   "status": "passed"
 });
 formatter.match({
   "location": "sctrachpad.groovy:77"
 });
 formatter.result({
-  "duration": 6368318839,
+  "duration": 6330721032,
   "status": "passed"
 });
 formatter.after({
-  "duration": 561640,
+  "duration": 752768,
   "status": "passed"
 });
 formatter.before({
-  "duration": 26043713,
+  "duration": 35432948,
   "status": "passed"
 });
 formatter.scenario({
@@ -6524,14 +6524,14 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 32342361333,
+  "duration": 25140467646,
   "status": "passed"
 });
 formatter.match({
   "location": "basepage.groovy:11"
 });
 formatter.result({
-  "duration": 848806031,
+  "duration": 919248193,
   "status": "passed"
 });
 formatter.match({
@@ -6544,7 +6544,7 @@ formatter.match({
   "location": "categorynavigation.groovy:273"
 });
 formatter.result({
-  "duration": 28368381700,
+  "duration": 39354836835,
   "status": "passed"
 });
 formatter.match({
@@ -6557,14 +6557,14 @@ formatter.match({
   "location": "basepage.groovy:186"
 });
 formatter.result({
-  "duration": 2007694654,
+  "duration": 1479721565,
   "status": "passed"
 });
 formatter.match({
   "location": "productnavmenudisplayflag.groovy:30"
 });
 formatter.result({
-  "duration": 53762694020,
+  "duration": 57474623070,
   "status": "passed"
 });
 formatter.match({
@@ -6577,7 +6577,7 @@ formatter.match({
   "location": "common_csp.groovy:334"
 });
 formatter.result({
-  "duration": 1502128597,
+  "duration": 870766198,
   "status": "passed"
 });
 formatter.match({
@@ -6598,7 +6598,7 @@ formatter.match({
   "location": "changeaccountsubmit.groovy:92"
 });
 formatter.result({
-  "duration": 1131290545,
+  "duration": 2359114180,
   "status": "passed"
 });
 formatter.match({
@@ -6615,7 +6615,7 @@ formatter.match({
   "location": "changeaccountsubmit.groovy:80"
 });
 formatter.result({
-  "duration": 4225304673,
+  "duration": 5289272992,
   "status": "passed"
 });
 formatter.match({
@@ -6628,7 +6628,7 @@ formatter.match({
   "location": "common_csp.groovy:364"
 });
 formatter.result({
-  "duration": 752043934,
+  "duration": 920015516,
   "status": "passed"
 });
 formatter.match({
@@ -6649,7 +6649,7 @@ formatter.match({
   "location": "common_csp.groovy:109"
 });
 formatter.result({
-  "duration": 10458092210,
+  "duration": 10604517996,
   "status": "passed"
 });
 formatter.match({
@@ -6670,7 +6670,7 @@ formatter.match({
   "location": "searchresultpage.groovy:1221"
 });
 formatter.result({
-  "duration": 7075451066,
+  "duration": 6620723242,
   "status": "passed"
 });
 formatter.match({
@@ -6687,7 +6687,7 @@ formatter.match({
   "location": "searchresultpage.groovy:1182"
 });
 formatter.result({
-  "duration": 8898643045,
+  "duration": 10673391064,
   "status": "passed"
 });
 formatter.match({
@@ -6708,7 +6708,7 @@ formatter.match({
   "location": "common_csp.groovy:442"
 });
 formatter.result({
-  "duration": 157296964,
+  "duration": 163149458,
   "status": "passed"
 });
 formatter.match({
@@ -6721,7 +6721,7 @@ formatter.match({
   "location": "common_csp.groovy:364"
 });
 formatter.result({
-  "duration": 2140401239,
+  "duration": 733180754,
   "status": "passed"
 });
 formatter.match({
@@ -6738,7 +6738,7 @@ formatter.match({
   "location": "common_csp.groovy:389"
 });
 formatter.result({
-  "duration": 24996547627,
+  "duration": 34761646159,
   "status": "passed"
 });
 formatter.match({
@@ -6755,7 +6755,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 658094487,
+  "duration": 778821979,
   "status": "passed"
 });
 formatter.match({
@@ -6772,7 +6772,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 1747205970,
+  "duration": 855559316,
   "status": "passed"
 });
 formatter.match({
@@ -6789,7 +6789,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 863327574,
+  "duration": 805275466,
   "status": "passed"
 });
 formatter.match({
@@ -6806,7 +6806,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 775783755,
+  "duration": 749928169,
   "status": "passed"
 });
 formatter.match({
@@ -6823,7 +6823,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 688772834,
+  "duration": 770213037,
   "status": "passed"
 });
 formatter.match({
@@ -6840,7 +6840,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 746719238,
+  "duration": 797582686,
   "status": "passed"
 });
 formatter.match({
@@ -6857,22 +6857,22 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 1076097269,
+  "duration": 844864944,
   "status": "passed"
 });
 formatter.match({
   "location": "sctrachpad.groovy:77"
 });
 formatter.result({
-  "duration": 8709721603,
+  "duration": 7863052006,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1342345,
+  "duration": 1585280,
   "status": "passed"
 });
 formatter.before({
-  "duration": 26644525,
+  "duration": 25444200,
   "status": "passed"
 });
 formatter.scenario({
@@ -7034,14 +7034,14 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 30182818530,
+  "duration": 22974215537,
   "status": "passed"
 });
 formatter.match({
   "location": "basepage.groovy:11"
 });
 formatter.result({
-  "duration": 867422638,
+  "duration": 2369337145,
   "status": "passed"
 });
 formatter.match({
@@ -7054,7 +7054,7 @@ formatter.match({
   "location": "categorynavigation.groovy:273"
 });
 formatter.result({
-  "duration": 26678620527,
+  "duration": 34707051600,
   "status": "passed"
 });
 formatter.match({
@@ -7067,14 +7067,14 @@ formatter.match({
   "location": "basepage.groovy:186"
 });
 formatter.result({
-  "duration": 1040672396,
+  "duration": 1062157060,
   "status": "passed"
 });
 formatter.match({
   "location": "productnavmenudisplayflag.groovy:30"
 });
 formatter.result({
-  "duration": 51084645743,
+  "duration": 57146087152,
   "status": "passed"
 });
 formatter.match({
@@ -7087,7 +7087,7 @@ formatter.match({
   "location": "common_csp.groovy:334"
 });
 formatter.result({
-  "duration": 1661898161,
+  "duration": 967755043,
   "status": "passed"
 });
 formatter.match({
@@ -7108,7 +7108,7 @@ formatter.match({
   "location": "changeaccountsubmit.groovy:92"
 });
 formatter.result({
-  "duration": 1034675056,
+  "duration": 1828687220,
   "status": "passed"
 });
 formatter.match({
@@ -7125,7 +7125,7 @@ formatter.match({
   "location": "changeaccountsubmit.groovy:80"
 });
 formatter.result({
-  "duration": 6025330853,
+  "duration": 6534087312,
   "status": "passed"
 });
 formatter.match({
@@ -7138,7 +7138,7 @@ formatter.match({
   "location": "common_csp.groovy:364"
 });
 formatter.result({
-  "duration": 786795173,
+  "duration": 1383996139,
   "status": "passed"
 });
 formatter.match({
@@ -7159,7 +7159,7 @@ formatter.match({
   "location": "common_csp.groovy:109"
 });
 formatter.result({
-  "duration": 10473877390,
+  "duration": 11920881041,
   "status": "passed"
 });
 formatter.match({
@@ -7180,7 +7180,7 @@ formatter.match({
   "location": "searchresultpage.groovy:1221"
 });
 formatter.result({
-  "duration": 5961771638,
+  "duration": 7739711085,
   "status": "passed"
 });
 formatter.match({
@@ -7197,7 +7197,7 @@ formatter.match({
   "location": "searchresultpage.groovy:1182"
 });
 formatter.result({
-  "duration": 7249038625,
+  "duration": 7753422772,
   "status": "passed"
 });
 formatter.match({
@@ -7218,7 +7218,7 @@ formatter.match({
   "location": "common_csp.groovy:442"
 });
 formatter.result({
-  "duration": 3537149206,
+  "duration": 1999362194,
   "status": "passed"
 });
 formatter.match({
@@ -7231,7 +7231,7 @@ formatter.match({
   "location": "common_csp.groovy:364"
 });
 formatter.result({
-  "duration": 3618426129,
+  "duration": 4451287095,
   "status": "passed"
 });
 formatter.match({
@@ -7248,7 +7248,7 @@ formatter.match({
   "location": "common_csp.groovy:389"
 });
 formatter.result({
-  "duration": 24031068314,
+  "duration": 35758976569,
   "status": "passed"
 });
 formatter.match({
@@ -7265,7 +7265,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 659847323,
+  "duration": 753964426,
   "status": "passed"
 });
 formatter.match({
@@ -7282,7 +7282,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 801792720,
+  "duration": 812386565,
   "status": "passed"
 });
 formatter.match({
@@ -7299,7 +7299,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 710432241,
+  "duration": 815275973,
   "status": "passed"
 });
 formatter.match({
@@ -7316,7 +7316,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 672605770,
+  "duration": 791758347,
   "status": "passed"
 });
 formatter.match({
@@ -7333,7 +7333,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 616753540,
+  "duration": 747664671,
   "status": "passed"
 });
 formatter.match({
@@ -7350,7 +7350,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 1743537755,
+  "duration": 864604538,
   "status": "passed"
 });
 formatter.match({
@@ -7367,22 +7367,22 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 843405869,
+  "duration": 989093616,
   "status": "passed"
 });
 formatter.match({
   "location": "sctrachpad.groovy:77"
 });
 formatter.result({
-  "duration": 5817757873,
+  "duration": 7623195475,
   "status": "passed"
 });
 formatter.after({
-  "duration": 844530,
+  "duration": 663544,
   "status": "passed"
 });
 formatter.before({
-  "duration": 25802570,
+  "duration": 25306697,
   "status": "passed"
 });
 formatter.scenario({
@@ -7489,14 +7489,14 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 24521773047,
+  "duration": 19399953042,
   "status": "passed"
 });
 formatter.match({
   "location": "changeaccountlink.groovy:12"
 });
 formatter.result({
-  "duration": 6967007006,
+  "duration": 5548273526,
   "status": "passed"
 });
 formatter.match({
@@ -7517,7 +7517,7 @@ formatter.match({
   "location": "common_csp.groovy:69"
 });
 formatter.result({
-  "duration": 5661089813,
+  "duration": 6791102717,
   "status": "passed"
 });
 formatter.match({
@@ -7538,7 +7538,7 @@ formatter.match({
   "location": "common_csp.groovy:130"
 });
 formatter.result({
-  "duration": 17733502025,
+  "duration": 18693808438,
   "status": "passed"
 });
 formatter.match({
@@ -7551,7 +7551,7 @@ formatter.match({
   "location": "searchresultpage.groovy:480"
 });
 formatter.result({
-  "duration": 11585819267,
+  "duration": 13383642597,
   "status": "passed"
 });
 formatter.match({
@@ -7572,7 +7572,7 @@ formatter.match({
   "location": "common_csp.groovy:69"
 });
 formatter.result({
-  "duration": 1315593640,
+  "duration": 1363942191,
   "status": "passed"
 });
 formatter.match({
@@ -7593,7 +7593,7 @@ formatter.match({
   "location": "common_csp.groovy:69"
 });
 formatter.result({
-  "duration": 1899937027,
+  "duration": 2559161831,
   "status": "passed"
 });
 formatter.match({
@@ -7614,7 +7614,7 @@ formatter.match({
   "location": "common_csp.groovy:69"
 });
 formatter.result({
-  "duration": 1662240653,
+  "duration": 3042290122,
   "status": "passed"
 });
 formatter.match({
@@ -7627,7 +7627,7 @@ formatter.match({
   "location": "searchresultpage.groovy:480"
 });
 formatter.result({
-  "duration": 8457938687,
+  "duration": 7980742577,
   "status": "passed"
 });
 formatter.match({
@@ -7664,14 +7664,14 @@ formatter.match({
   "location": "changeaccountdropdown.groovy:23"
 });
 formatter.result({
-  "duration": 9869283757,
+  "duration": 10047939619,
   "status": "passed"
 });
 formatter.match({
   "location": "sctrachpad.groovy:77"
 });
 formatter.result({
-  "duration": 8777697317,
+  "duration": 11944089462,
   "status": "passed"
 });
 formatter.match({
@@ -7684,15 +7684,15 @@ formatter.match({
   "location": "common_csp.groovy:380"
 });
 formatter.result({
-  "duration": 146980041,
+  "duration": 140444929,
   "status": "passed"
 });
 formatter.after({
-  "duration": 433947,
+  "duration": 441489,
   "status": "passed"
 });
 formatter.before({
-  "duration": 24330858,
+  "duration": 24207483,
   "status": "passed"
 });
 formatter.scenario({
@@ -7834,14 +7834,14 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 27542172791,
+  "duration": 20923776417,
   "status": "passed"
 });
 formatter.match({
   "location": "changeaccountlink.groovy:12"
 });
 formatter.result({
-  "duration": 9553131846,
+  "duration": 7107711894,
   "status": "passed"
 });
 formatter.match({
@@ -7854,7 +7854,7 @@ formatter.match({
   "location": "searchresultpage.groovy:480"
 });
 formatter.result({
-  "duration": 13564077477,
+  "duration": 10216290751,
   "status": "passed"
 });
 formatter.match({
@@ -7867,7 +7867,7 @@ formatter.match({
   "location": "searchresultpage.groovy:480"
 });
 formatter.result({
-  "duration": 16759146488,
+  "duration": 14652475319,
   "status": "passed"
 });
 formatter.match({
@@ -7880,7 +7880,7 @@ formatter.match({
   "location": "common_csp.groovy:364"
 });
 formatter.result({
-  "duration": 2451275103,
+  "duration": 2160141797,
   "status": "passed"
 });
 formatter.match({
@@ -7901,7 +7901,7 @@ formatter.match({
   "location": "common_csp.groovy:69"
 });
 formatter.result({
-  "duration": 1112253411,
+  "duration": 1205067874,
   "status": "passed"
 });
 formatter.match({
@@ -7922,7 +7922,7 @@ formatter.match({
   "location": "common_csp.groovy:69"
 });
 formatter.result({
-  "duration": 2430588228,
+  "duration": 2265537222,
   "status": "passed"
 });
 formatter.match({
@@ -7943,7 +7943,7 @@ formatter.match({
   "location": "common_csp.groovy:69"
 });
 formatter.result({
-  "duration": 1253783801,
+  "duration": 1255414479,
   "status": "passed"
 });
 formatter.match({
@@ -7964,7 +7964,7 @@ formatter.match({
   "location": "common_csp.groovy:69"
 });
 formatter.result({
-  "duration": 1173631008,
+  "duration": 1288822000,
   "status": "passed"
 });
 formatter.match({
@@ -7985,7 +7985,7 @@ formatter.match({
   "location": "common_csp.groovy:69"
 });
 formatter.result({
-  "duration": 1154373976,
+  "duration": 1184476995,
   "status": "passed"
 });
 formatter.match({
@@ -8006,7 +8006,7 @@ formatter.match({
   "location": "common_csp.groovy:69"
 });
 formatter.result({
-  "duration": 1076030817,
+  "duration": 1354802488,
   "status": "passed"
 });
 formatter.match({
@@ -8027,7 +8027,7 @@ formatter.match({
   "location": "common_csp.groovy:69"
 });
 formatter.result({
-  "duration": 1103030574,
+  "duration": 1232220895,
   "status": "passed"
 });
 formatter.match({
@@ -8048,7 +8048,7 @@ formatter.match({
   "location": "common_csp.groovy:69"
 });
 formatter.result({
-  "duration": 2267287087,
+  "duration": 1617511809,
   "status": "passed"
 });
 formatter.match({
@@ -8069,7 +8069,7 @@ formatter.match({
   "location": "common_csp.groovy:69"
 });
 formatter.result({
-  "duration": 1013273156,
+  "duration": 1169811394,
   "status": "passed"
 });
 formatter.match({
@@ -8090,7 +8090,7 @@ formatter.match({
   "location": "common_csp.groovy:69"
 });
 formatter.result({
-  "duration": 3287108374,
+  "duration": 3332175446,
   "status": "passed"
 });
 formatter.match({
@@ -8111,7 +8111,7 @@ formatter.match({
   "location": "common_csp.groovy:69"
 });
 formatter.result({
-  "duration": 2958374150,
+  "duration": 4285731583,
   "status": "passed"
 });
 formatter.match({
@@ -8132,29 +8132,29 @@ formatter.match({
   "location": "common_csp.groovy:69"
 });
 formatter.result({
-  "duration": 3869927093,
+  "duration": 4168812064,
   "status": "passed"
 });
 formatter.match({
   "location": "changeaccountlink.groovy:12"
 });
 formatter.result({
-  "duration": 8653148793,
+  "duration": 6442848013,
   "status": "passed"
 });
 formatter.match({
   "location": "sctrachpad.groovy:77"
 });
 formatter.result({
-  "duration": 6920856751,
+  "duration": 9745595040,
   "status": "passed"
 });
 formatter.after({
-  "duration": 440907,
+  "duration": 477754,
   "status": "passed"
 });
 formatter.before({
-  "duration": 25829357,
+  "duration": 31893292,
   "status": "passed"
 });
 formatter.scenario({
@@ -8451,14 +8451,14 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 26434333582,
+  "duration": 19946409879,
   "status": "passed"
 });
 formatter.match({
   "location": "changeaccountlink.groovy:12"
 });
 formatter.result({
-  "duration": 9425546844,
+  "duration": 7159297547,
   "status": "passed"
 });
 formatter.match({
@@ -8471,7 +8471,7 @@ formatter.match({
   "location": "searchresultpage.groovy:480"
 });
 formatter.result({
-  "duration": 13003326296,
+  "duration": 12107842016,
   "status": "passed"
 });
 formatter.match({
@@ -8484,7 +8484,7 @@ formatter.match({
   "location": "searchresultpage.groovy:480"
 });
 formatter.result({
-  "duration": 15396669134,
+  "duration": 11777330936,
   "status": "passed"
 });
 formatter.match({
@@ -8497,7 +8497,7 @@ formatter.match({
   "location": "common_csp.groovy:364"
 });
 formatter.result({
-  "duration": 1035998543,
+  "duration": 1034609986,
   "status": "passed"
 });
 formatter.match({
@@ -8514,7 +8514,7 @@ formatter.match({
   "location": "changeaccountsubmit.groovy:80"
 });
 formatter.result({
-  "duration": 4536426281,
+  "duration": 4948619615,
   "status": "passed"
 });
 formatter.match({
@@ -8531,7 +8531,7 @@ formatter.match({
   "location": "changeaccountsubmit.groovy:80"
 });
 formatter.result({
-  "duration": 4451062537,
+  "duration": 3010687396,
   "status": "passed"
 });
 formatter.match({
@@ -8548,7 +8548,7 @@ formatter.match({
   "location": "changeaccountsubmit.groovy:80"
 });
 formatter.result({
-  "duration": 2969395296,
+  "duration": 3542501812,
   "status": "passed"
 });
 formatter.match({
@@ -8565,7 +8565,7 @@ formatter.match({
   "location": "changeaccountsubmit.groovy:80"
 });
 formatter.result({
-  "duration": 3886842175,
+  "duration": 3352557114,
   "status": "passed"
 });
 formatter.match({
@@ -8582,7 +8582,7 @@ formatter.match({
   "location": "changeaccountsubmit.groovy:80"
 });
 formatter.result({
-  "duration": 3716353492,
+  "duration": 4477504471,
   "status": "passed"
 });
 formatter.match({
@@ -8599,7 +8599,7 @@ formatter.match({
   "location": "changeaccountsubmit.groovy:80"
 });
 formatter.result({
-  "duration": 3406338172,
+  "duration": 3562731953,
   "status": "passed"
 });
 formatter.match({
@@ -8616,7 +8616,7 @@ formatter.match({
   "location": "changeaccountsubmit.groovy:80"
 });
 formatter.result({
-  "duration": 4140269853,
+  "duration": 3108231613,
   "status": "passed"
 });
 formatter.match({
@@ -8633,7 +8633,7 @@ formatter.match({
   "location": "common_csp.groovy:173"
 });
 formatter.result({
-  "duration": 5713357408,
+  "duration": 4278120934,
   "status": "passed"
 });
 formatter.match({
@@ -8650,7 +8650,7 @@ formatter.match({
   "location": "common_csp.groovy:173"
 });
 formatter.result({
-  "duration": 5504486789,
+  "duration": 6898201444,
   "status": "passed"
 });
 formatter.match({
@@ -8667,7 +8667,7 @@ formatter.match({
   "location": "common_csp.groovy:173"
 });
 formatter.result({
-  "duration": 5724627134,
+  "duration": 7158112327,
   "status": "passed"
 });
 formatter.match({
@@ -8684,7 +8684,7 @@ formatter.match({
   "location": "common_csp.groovy:173"
 });
 formatter.result({
-  "duration": 5067698240,
+  "duration": 4154222523,
   "status": "passed"
 });
 formatter.match({
@@ -8701,7 +8701,7 @@ formatter.match({
   "location": "common_csp.groovy:173"
 });
 formatter.result({
-  "duration": 4901789938,
+  "duration": 7173586283,
   "status": "passed"
 });
 formatter.match({
@@ -8718,7 +8718,7 @@ formatter.match({
   "location": "common_csp.groovy:173"
 });
 formatter.result({
-  "duration": 5952615838,
+  "duration": 4898663234,
   "status": "passed"
 });
 formatter.match({
@@ -8735,7 +8735,7 @@ formatter.match({
   "location": "common_csp.groovy:173"
 });
 formatter.result({
-  "duration": 4399482114,
+  "duration": 6257859234,
   "status": "passed"
 });
 formatter.match({
@@ -8748,8 +8748,8 @@ formatter.match({
   "location": "itemdetailspage.groovy:62"
 });
 formatter.result({
-  "duration": 4871388206,
-  "error_message": "java.lang.AssertionError: pages.UserProfilePage -\u003e profile_SaveChangesButton: geb.navigator.NonEmptyNavigator cannot be interacted and hence cannot be clicked ,exception ...org.openqa.selenium.ElementNotVisibleException: element not visible\n  (Session info: chrome\u003d69.0.3497.81)\n  (Driver info: chromedriver\u003d2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform\u003dWindows NT 10.0.10586 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 247 milliseconds\nBuild info: version: \u0027unknown\u0027, revision: \u0027unknown\u0027, time: \u0027unknown\u0027\nSystem info: host: \u00272983abfb-0c07-42dc-5522-11f647b5f34e\u0027, ip: \u002710.254.0.122\u0027, os.name: \u0027Linux\u0027, os.arch: \u0027amd64\u0027, os.version: \u00274.14.62-65.117.amzn1.x86_64\u0027, java.version: \u00271.8.0_171\u0027\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCapabilities [{mobileEmulationEnabled\u003dfalse, hasTouchScreen\u003dfalse, platform\u003dXP, acceptSslCerts\u003dfalse, goog:chromeOptions\u003d{debuggerAddress\u003dlocalhost:49748}, acceptInsecureCerts\u003dfalse, webStorageEnabled\u003dtrue, takesScreenshot\u003dtrue, browserName\u003dchrome, javascriptEnabled\u003dtrue, setWindowRect\u003dtrue, unexpectedAlertBehaviour\u003d, applicationCacheEnabled\u003dfalse, rotatable\u003dfalse, networkConnectionEnabled\u003dfalse, chrome\u003d{chromedriverVersion\u003d2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e), userDataDir\u003dC:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\scoped_dir888_21393}, takesHeapSnapshot\u003dtrue, pageLoadStrategy\u003dnormal, hasMetadata\u003dtrue, handlesAlerts\u003dtrue, databaseEnabled\u003dfalse, version\u003d69.0.3497.81, browserConnectionEnabled\u003dfalse, nativeEvents\u003dtrue, webdriver.remote.sessionid\u003ddde4ed6a0cec44b49b392e7d5131c6c2, locationContextEnabled\u003dtrue, cssSelectorsEnabled\u003dtrue}]\nSession ID: dde4ed6a0cec44b49b392e7d5131c6c2. Expression: false\n\tat functionlib.Elements.click_on_page(Elements.groovy:367)\n\tat functionlib.Elements.click_on_page(Elements.groovy)\n\tat functionlib.Elements$click_on_page$2.call(Unknown Source)\n\tat steps.itemdetails.itemdetailspage$_run_closure7.doCall(itemdetailspage.groovy:66)\n\tat ✽.And I click at Item \u0027profile_SaveChangesButton\u0027(navigation/Common.feature:454)\n",
+  "duration": 6720132454,
+  "error_message": "java.lang.AssertionError: pages.UserProfilePage -\u003e profile_SaveChangesButton: geb.navigator.NonEmptyNavigator cannot be interacted and hence cannot be clicked ,exception ...org.openqa.selenium.ElementNotVisibleException: element not interactable\n  (Session info: chrome\u003d70.0.3538.67)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.10586 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 219 milliseconds\nBuild info: version: \u0027unknown\u0027, revision: \u0027unknown\u0027, time: \u0027unknown\u0027\nSystem info: host: \u002732079283-66d6-4456-6661-14956d82b25d\u0027, ip: \u002710.254.0.62\u0027, os.name: \u0027Linux\u0027, os.arch: \u0027amd64\u0027, os.version: \u00274.14.62-65.117.amzn1.x86_64\u0027, java.version: \u00271.8.0_171\u0027\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCapabilities [{mobileEmulationEnabled\u003dfalse, hasTouchScreen\u003dfalse, platform\u003dXP, acceptSslCerts\u003dfalse, goog:chromeOptions\u003d{debuggerAddress\u003dlocalhost:49750}, acceptInsecureCerts\u003dfalse, webStorageEnabled\u003dtrue, takesScreenshot\u003dtrue, browserName\u003dchrome, javascriptEnabled\u003dtrue, setWindowRect\u003dtrue, unexpectedAlertBehaviour\u003d, applicationCacheEnabled\u003dfalse, rotatable\u003dfalse, networkConnectionEnabled\u003dfalse, chrome\u003d{chromedriverVersion\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a), userDataDir\u003dC:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\scoped_dir3836_31335}, takesHeapSnapshot\u003dtrue, pageLoadStrategy\u003dnormal, hasMetadata\u003dtrue, handlesAlerts\u003dtrue, databaseEnabled\u003dfalse, version\u003d70.0.3538.67, browserConnectionEnabled\u003dfalse, nativeEvents\u003dtrue, webdriver.remote.sessionid\u003d6a8dfc24db1c4c9bbfd9f5513e9e824c, locationContextEnabled\u003dtrue, cssSelectorsEnabled\u003dtrue}]\nSession ID: 6a8dfc24db1c4c9bbfd9f5513e9e824c. Expression: false\n\tat functionlib.Elements.click_on_page(Elements.groovy:367)\n\tat functionlib.Elements.click_on_page(Elements.groovy)\n\tat functionlib.Elements$click_on_page$2.call(Unknown Source)\n\tat steps.itemdetails.itemdetailspage$_run_closure7.doCall(itemdetailspage.groovy:66)\n\tat ✽.And I click at Item \u0027profile_SaveChangesButton\u0027(navigation/Common.feature:454)\n",
   "status": "failed"
 });
 formatter.match({
@@ -9186,11 +9186,11 @@ formatter.result({
 });
 formatter.embedding("image/png", "embedded1.png");
 formatter.after({
-  "duration": 959673479,
+  "duration": 885076167,
   "status": "passed"
 });
 formatter.before({
-  "duration": 36730581,
+  "duration": 26672637,
   "status": "passed"
 });
 formatter.scenario({
@@ -9307,14 +9307,14 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 32072398027,
+  "duration": 23125653212,
   "status": "passed"
 });
 formatter.match({
   "location": "basepage.groovy:11"
 });
 formatter.result({
-  "duration": 805975234,
+  "duration": 2594420365,
   "status": "passed"
 });
 formatter.match({
@@ -9327,7 +9327,7 @@ formatter.match({
   "location": "categorynavigation.groovy:273"
 });
 formatter.result({
-  "duration": 22460532422,
+  "duration": 29964069657,
   "status": "passed"
 });
 formatter.match({
@@ -9340,21 +9340,21 @@ formatter.match({
   "location": "basepage.groovy:186"
 });
 formatter.result({
-  "duration": 869603552,
+  "duration": 1879527846,
   "status": "passed"
 });
 formatter.match({
   "location": "productnavmenudisplayflag.groovy:30"
 });
 formatter.result({
-  "duration": 58858826795,
+  "duration": 58250718020,
   "status": "passed"
 });
 formatter.match({
   "location": "shoppingcartpage.groovy:421"
 });
 formatter.result({
-  "duration": 5353350848,
+  "duration": 5883852610,
   "status": "passed"
 });
 formatter.match({
@@ -9367,7 +9367,7 @@ formatter.match({
   "location": "itemdetailspage.groovy:19"
 });
 formatter.result({
-  "duration": 1008609979,
+  "duration": 812059645,
   "status": "passed"
 });
 formatter.match({
@@ -9380,7 +9380,7 @@ formatter.match({
   "location": "itemdetailspage.groovy:62"
 });
 formatter.result({
-  "duration": 9254343195,
+  "duration": 11767526433,
   "status": "passed"
 });
 formatter.match({
@@ -9393,7 +9393,7 @@ formatter.match({
   "location": "itemdetailspage.groovy:19"
 });
 formatter.result({
-  "duration": 837182371,
+  "duration": 788738461,
   "status": "passed"
 });
 formatter.match({
@@ -9406,7 +9406,7 @@ formatter.match({
   "location": "itemdetailspage.groovy:62"
 });
 formatter.result({
-  "duration": 10178179303,
+  "duration": 10031182590,
   "status": "passed"
 });
 formatter.match({
@@ -9419,7 +9419,7 @@ formatter.match({
   "location": "basepage.groovy:186"
 });
 formatter.result({
-  "duration": 2341231588,
+  "duration": 1132946217,
   "status": "passed"
 });
 formatter.match({
@@ -9432,7 +9432,7 @@ formatter.match({
   "location": "itemdetailspage.groovy:19"
 });
 formatter.result({
-  "duration": 868987679,
+  "duration": 892559393,
   "status": "passed"
 });
 formatter.match({
@@ -9445,7 +9445,7 @@ formatter.match({
   "location": "itemdetailspage.groovy:62"
 });
 formatter.result({
-  "duration": 9141280673,
+  "duration": 13182863209,
   "status": "passed"
 });
 formatter.match({
@@ -9458,15 +9458,15 @@ formatter.match({
   "location": "itemdetailspage.groovy:19"
 });
 formatter.result({
-  "duration": 3215678549,
+  "duration": 1001057450,
   "status": "passed"
 });
 formatter.after({
-  "duration": 483512,
+  "duration": 834351,
   "status": "passed"
 });
 formatter.before({
-  "duration": 25589046,
+  "duration": 35137174,
   "status": "passed"
 });
 formatter.scenario({
@@ -9579,14 +9579,14 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 28735439030,
+  "duration": 22802632262,
   "status": "passed"
 });
 formatter.match({
   "location": "basepage.groovy:11"
 });
 formatter.result({
-  "duration": 910648962,
+  "duration": 1822389105,
   "status": "passed"
 });
 formatter.match({
@@ -9607,7 +9607,7 @@ formatter.match({
   "location": "common_csp.groovy:109"
 });
 formatter.result({
-  "duration": 13776471605,
+  "duration": 13629685124,
   "status": "passed"
 });
 formatter.match({
@@ -9628,7 +9628,7 @@ formatter.match({
   "location": "categorynavigation.groovy:120"
 });
 formatter.result({
-  "duration": 14722064287,
+  "duration": 19098432874,
   "status": "passed"
 });
 formatter.match({
@@ -9641,7 +9641,7 @@ formatter.match({
   "location": "basepage.groovy:186"
 });
 formatter.result({
-  "duration": 2270069020,
+  "duration": 1160929942,
   "status": "passed"
 });
 formatter.match({
@@ -9654,7 +9654,7 @@ formatter.match({
   "location": "common_csp.groovy:364"
 });
 formatter.result({
-  "duration": 699186809,
+  "duration": 686567976,
   "status": "passed"
 });
 formatter.match({
@@ -9671,7 +9671,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 798270608,
+  "duration": 798878371,
   "status": "passed"
 });
 formatter.match({
@@ -9688,7 +9688,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 799449288,
+  "duration": 794812620,
   "status": "passed"
 });
 formatter.match({
@@ -9705,7 +9705,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 1000583640,
+  "duration": 767429956,
   "status": "passed"
 });
 formatter.match({
@@ -9722,7 +9722,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 683219266,
+  "duration": 722273958,
   "status": "passed"
 });
 formatter.match({
@@ -9739,7 +9739,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 741743241,
+  "duration": 738516377,
   "status": "passed"
 });
 formatter.match({
@@ -9756,7 +9756,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 1871357271,
+  "duration": 826476488,
   "status": "passed"
 });
 formatter.match({
@@ -9773,22 +9773,22 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 1037843145,
+  "duration": 1462358413,
   "status": "passed"
 });
 formatter.match({
   "location": "sctrachpad.groovy:77"
 });
 formatter.result({
-  "duration": 9012575654,
+  "duration": 7817303387,
   "status": "passed"
 });
 formatter.after({
-  "duration": 426033,
+  "duration": 450163,
   "status": "passed"
 });
 formatter.before({
-  "duration": 26628994,
+  "duration": 29672093,
   "status": "passed"
 });
 formatter.scenario({
@@ -9867,14 +9867,14 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 26801166800,
+  "duration": 24318819189,
   "status": "passed"
 });
 formatter.match({
   "location": "basepage.groovy:11"
 });
 formatter.result({
-  "duration": 2524454773,
+  "duration": 839172680,
   "status": "passed"
 });
 formatter.match({
@@ -9895,7 +9895,7 @@ formatter.match({
   "location": "common_csp.groovy:109"
 });
 formatter.result({
-  "duration": 11492376289,
+  "duration": 14198970883,
   "status": "passed"
 });
 formatter.match({
@@ -9916,7 +9916,7 @@ formatter.match({
   "location": "categorynavigation.groovy:120"
 });
 formatter.result({
-  "duration": 13597763607,
+  "duration": 11942475911,
   "status": "passed"
 });
 formatter.match({
@@ -9929,22 +9929,22 @@ formatter.match({
   "location": "basepage.groovy:186"
 });
 formatter.result({
-  "duration": 841027514,
+  "duration": 918224120,
   "status": "passed"
 });
 formatter.match({
   "location": "sctrachpad.groovy:77"
 });
 formatter.result({
-  "duration": 7873170034,
+  "duration": 6936312625,
   "status": "passed"
 });
 formatter.after({
-  "duration": 617650,
+  "duration": 790768,
   "status": "passed"
 });
 formatter.before({
-  "duration": 26311926,
+  "duration": 33443427,
   "status": "passed"
 });
 formatter.scenario({
@@ -10008,14 +10008,14 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 27403682230,
+  "duration": 19970653727,
   "status": "passed"
 });
 formatter.match({
   "location": "basepage.groovy:11"
 });
 formatter.result({
-  "duration": 1784644118,
+  "duration": 789636551,
   "status": "passed"
 });
 formatter.match({
@@ -10028,11 +10028,11 @@ formatter.match({
   "location": "searchresultpage.groovy:480"
 });
 formatter.result({
-  "duration": 4633982455,
+  "duration": 4365255015,
   "status": "passed"
 });
 formatter.after({
-  "duration": 415755,
+  "duration": 501899,
   "status": "passed"
 });
 formatter.uri("navigation/Common_2.feature");
@@ -10044,7 +10044,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 26361239,
+  "duration": 30954035,
   "status": "passed"
 });
 formatter.scenario({
@@ -10096,15 +10096,15 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 28437184766,
+  "duration": 21889257852,
   "status": "passed"
 });
 formatter.after({
-  "duration": 594863,
+  "duration": 673479,
   "status": "passed"
 });
 formatter.before({
-  "duration": 26378427,
+  "duration": 42045580,
   "status": "passed"
 });
 formatter.scenario({
@@ -10176,21 +10176,21 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 28847649340,
+  "duration": 23349422555,
   "status": "passed"
 });
 formatter.match({
   "location": "basepage.groovy:11"
 });
 formatter.result({
-  "duration": 1639725249,
+  "duration": 890710968,
   "status": "passed"
 });
 formatter.match({
   "location": "sctrachpad.groovy:77"
 });
 formatter.result({
-  "duration": 7803529938,
+  "duration": 9662235957,
   "status": "passed"
 });
 formatter.match({
@@ -10203,7 +10203,7 @@ formatter.match({
   "location": "common_csp.groovy:24"
 });
 formatter.result({
-  "duration": 10074264762,
+  "duration": 6527556244,
   "status": "passed"
 });
 formatter.match({
@@ -10220,15 +10220,15 @@ formatter.match({
   "location": "common_csp.groovy:431"
 });
 formatter.result({
-  "duration": 4611638194,
+  "duration": 7421129686,
   "status": "passed"
 });
 formatter.after({
-  "duration": 475149,
+  "duration": 475009,
   "status": "passed"
 });
 formatter.before({
-  "duration": 26974908,
+  "duration": 26537699,
   "status": "passed"
 });
 formatter.scenario({
@@ -10305,21 +10305,21 @@ formatter.match({
   "location": "common_csp.groovy:29"
 });
 formatter.result({
-  "duration": 33733486494,
+  "duration": 30570083437,
   "status": "passed"
 });
 formatter.match({
   "location": "basepage.groovy:11"
 });
 formatter.result({
-  "duration": 925092547,
+  "duration": 2084633760,
   "status": "passed"
 });
 formatter.match({
   "location": "sctrachpad.groovy:77"
 });
 formatter.result({
-  "duration": 10017010941,
+  "duration": 6677429365,
   "status": "passed"
 });
 formatter.match({
@@ -10332,7 +10332,7 @@ formatter.match({
   "location": "common_csp.groovy:24"
 });
 formatter.result({
-  "duration": 11887541410,
+  "duration": 6664608968,
   "status": "passed"
 });
 formatter.match({
@@ -10349,7 +10349,7 @@ formatter.match({
   "location": "common_csp.groovy:431"
 });
 formatter.result({
-  "duration": 4136995399,
+  "duration": 5468060311,
   "status": "passed"
 });
 formatter.match({
@@ -10362,15 +10362,15 @@ formatter.match({
   "location": "basepage.groovy:104"
 });
 formatter.result({
-  "duration": 1703107216,
+  "duration": 1658129537,
   "status": "passed"
 });
 formatter.after({
-  "duration": 446305,
+  "duration": 500955,
   "status": "passed"
 });
 formatter.before({
-  "duration": 26040161,
+  "duration": 26389652,
   "status": "passed"
 });
 formatter.scenario({
@@ -10432,14 +10432,14 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 34124837762,
+  "duration": 19433256883,
   "status": "passed"
 });
 formatter.match({
   "location": "sctrachpad.groovy:77"
 });
 formatter.result({
-  "duration": 7504694807,
+  "duration": 7794799899,
   "status": "passed"
 });
 formatter.match({
@@ -10452,15 +10452,15 @@ formatter.match({
   "location": "common_csp.groovy:364"
 });
 formatter.result({
-  "duration": 442733097,
+  "duration": 439992045,
   "status": "passed"
 });
 formatter.after({
-  "duration": 587887,
+  "duration": 362375,
   "status": "passed"
 });
 formatter.before({
-  "duration": 31275706,
+  "duration": 27656047,
   "status": "passed"
 });
 formatter.scenario({
@@ -10553,14 +10553,14 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 30069771628,
+  "duration": 18142098032,
   "status": "passed"
 });
 formatter.match({
   "location": "basepage.groovy:11"
 });
 formatter.result({
-  "duration": 1569092084,
+  "duration": 2615821825,
   "status": "passed"
 });
 formatter.match({
@@ -10573,7 +10573,7 @@ formatter.match({
   "location": "basepage.groovy:34"
 });
 formatter.result({
-  "duration": 2277896040,
+  "duration": 2496097069,
   "status": "passed"
 });
 formatter.match({
@@ -10586,7 +10586,7 @@ formatter.match({
   "location": "basepage.groovy:34"
 });
 formatter.result({
-  "duration": 1906720059,
+  "duration": 1199387515,
   "status": "passed"
 });
 formatter.match({
@@ -10599,7 +10599,7 @@ formatter.match({
   "location": "basepage.groovy:34"
 });
 formatter.result({
-  "duration": 602245433,
+  "duration": 2130296986,
   "status": "passed"
 });
 formatter.match({
@@ -10612,7 +10612,7 @@ formatter.match({
   "location": "basepage.groovy:34"
 });
 formatter.result({
-  "duration": 831092796,
+  "duration": 680472111,
   "status": "passed"
 });
 formatter.match({
@@ -10625,22 +10625,22 @@ formatter.match({
   "location": "basepage.groovy:34"
 });
 formatter.result({
-  "duration": 2513627139,
+  "duration": 3676871457,
   "status": "passed"
 });
 formatter.match({
   "location": "sctrachpad.groovy:77"
 });
 formatter.result({
-  "duration": 7986056072,
+  "duration": 8091558775,
   "status": "passed"
 });
 formatter.after({
-  "duration": 427440,
+  "duration": 530283,
   "status": "passed"
 });
 formatter.before({
-  "duration": 27191407,
+  "duration": 33248735,
   "status": "passed"
 });
 formatter.scenario({
@@ -10732,14 +10732,14 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 25151759916,
+  "duration": 19645504294,
   "status": "passed"
 });
 formatter.match({
   "location": "basepage.groovy:11"
 });
 formatter.result({
-  "duration": 2101918991,
+  "duration": 915704552,
   "status": "passed"
 });
 formatter.match({
@@ -10752,7 +10752,7 @@ formatter.match({
   "location": "basepage.groovy:34"
 });
 formatter.result({
-  "duration": 3691997836,
+  "duration": 2683378420,
   "status": "passed"
 });
 formatter.match({
@@ -10765,7 +10765,7 @@ formatter.match({
   "location": "basepage.groovy:34"
 });
 formatter.result({
-  "duration": 1113548135,
+  "duration": 1415324279,
   "status": "passed"
 });
 formatter.match({
@@ -10778,7 +10778,7 @@ formatter.match({
   "location": "basepage.groovy:34"
 });
 formatter.result({
-  "duration": 1075108142,
+  "duration": 2595832744,
   "status": "passed"
 });
 formatter.match({
@@ -10791,7 +10791,7 @@ formatter.match({
   "location": "basepage.groovy:34"
 });
 formatter.result({
-  "duration": 1304028324,
+  "duration": 1342562949,
   "status": "passed"
 });
 formatter.match({
@@ -10804,7 +10804,7 @@ formatter.match({
   "location": "basepage.groovy:34"
 });
 formatter.result({
-  "duration": 1900358943,
+  "duration": 1222259138,
   "status": "passed"
 });
 formatter.match({
@@ -10817,22 +10817,22 @@ formatter.match({
   "location": "basepage.groovy:34"
 });
 formatter.result({
-  "duration": 1181964583,
+  "duration": 1253023332,
   "status": "passed"
 });
 formatter.match({
   "location": "sctrachpad.groovy:77"
 });
 formatter.result({
-  "duration": 8213068809,
+  "duration": 7327854713,
   "status": "passed"
 });
 formatter.after({
-  "duration": 454066,
+  "duration": 470934,
   "status": "passed"
 });
 formatter.before({
-  "duration": 26564203,
+  "duration": 28672479,
   "status": "passed"
 });
 formatter.scenario({
@@ -10904,21 +10904,21 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 28724388762,
+  "duration": 18132182505,
   "status": "passed"
 });
 formatter.match({
   "location": "basepage.groovy:11"
 });
 formatter.result({
-  "duration": 833451275,
+  "duration": 2042861562,
   "status": "passed"
 });
 formatter.match({
   "location": "shoppingcartpage.groovy:12"
 });
 formatter.result({
-  "duration": 12068399341,
+  "duration": 8035331405,
   "status": "passed"
 });
 formatter.match({
@@ -10931,22 +10931,22 @@ formatter.match({
   "location": "searchresultpage.groovy:1158"
 });
 formatter.result({
-  "duration": 37099785067,
+  "duration": 31783979922,
   "status": "passed"
 });
 formatter.match({
   "location": "shoppingcartpage.groovy:293"
 });
 formatter.result({
-  "duration": 36365222590,
+  "duration": 37029543957,
   "status": "passed"
 });
 formatter.after({
-  "duration": 498733,
+  "duration": 606012,
   "status": "passed"
 });
 formatter.before({
-  "duration": 26413714,
+  "duration": 36016938,
   "status": "passed"
 });
 formatter.scenario({
@@ -11063,21 +11063,21 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 31307616468,
+  "duration": 23807749698,
   "status": "passed"
 });
 formatter.match({
   "location": "basepage.groovy:11"
 });
 formatter.result({
-  "duration": 1136179597,
+  "duration": 916322291,
   "status": "passed"
 });
 formatter.match({
   "location": "shoppingcartpage.groovy:12"
 });
 formatter.result({
-  "duration": 32720994409,
+  "duration": 38233104762,
   "status": "passed"
 });
 formatter.match({
@@ -11090,14 +11090,14 @@ formatter.match({
   "location": "searchresultpage.groovy:1158"
 });
 formatter.result({
-  "duration": 32830479537,
+  "duration": 28402143955,
   "status": "passed"
 });
 formatter.match({
   "location": "shoppingcartpage.groovy:293"
 });
 formatter.result({
-  "duration": 35179589780,
+  "duration": 35294534052,
   "status": "passed"
 });
 formatter.match({
@@ -11110,7 +11110,7 @@ formatter.match({
   "location": "common_csp.groovy:364"
 });
 formatter.result({
-  "duration": 524631337,
+  "duration": 447322930,
   "status": "passed"
 });
 formatter.match({
@@ -11127,7 +11127,7 @@ formatter.match({
   "location": "common_csp.groovy:389"
 });
 formatter.result({
-  "duration": 5532708881,
+  "duration": 4672103949,
   "status": "passed"
 });
 formatter.match({
@@ -11144,7 +11144,7 @@ formatter.match({
   "location": "common_csp.groovy:389"
 });
 formatter.result({
-  "duration": 6981675203,
+  "duration": 6383272977,
   "status": "passed"
 });
 formatter.match({
@@ -11157,14 +11157,14 @@ formatter.match({
   "location": "searchresultpage.groovy:1158"
 });
 formatter.result({
-  "duration": 33063592466,
+  "duration": 42912641008,
   "status": "passed"
 });
 formatter.match({
   "location": "shoppingcartpage.groovy:293"
 });
 formatter.result({
-  "duration": 34548698592,
+  "duration": 44203337542,
   "status": "passed"
 });
 formatter.match({
@@ -11177,7 +11177,7 @@ formatter.match({
   "location": "common_csp.groovy:364"
 });
 formatter.result({
-  "duration": 366533645,
+  "duration": 412205638,
   "status": "passed"
 });
 formatter.match({
@@ -11194,7 +11194,7 @@ formatter.match({
   "location": "common_csp.groovy:389"
 });
 formatter.result({
-  "duration": 6473433120,
+  "duration": 6745505962,
   "status": "passed"
 });
 formatter.match({
@@ -11211,22 +11211,22 @@ formatter.match({
   "location": "common_csp.groovy:389"
 });
 formatter.result({
-  "duration": 6757235039,
+  "duration": 8819966320,
   "status": "passed"
 });
 formatter.match({
   "location": "sctrachpad.groovy:77"
 });
 formatter.result({
-  "duration": 8451801534,
+  "duration": 10445746127,
   "status": "passed"
 });
 formatter.after({
-  "duration": 739615,
+  "duration": 1239342,
   "status": "passed"
 });
 formatter.before({
-  "duration": 26859725,
+  "duration": 39882852,
   "status": "passed"
 });
 formatter.scenario({
@@ -11382,21 +11382,21 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 26196254495,
+  "duration": 20125468622,
   "status": "passed"
 });
 formatter.match({
   "location": "basepage.groovy:11"
 });
 formatter.result({
-  "duration": 1466572501,
+  "duration": 893454025,
   "status": "passed"
 });
 formatter.match({
   "location": "shoppingcartpage.groovy:12"
 });
 formatter.result({
-  "duration": 36103963001,
+  "duration": 43914678303,
   "status": "passed"
 });
 formatter.match({
@@ -11409,14 +11409,14 @@ formatter.match({
   "location": "searchresultpage.groovy:1158"
 });
 formatter.result({
-  "duration": 26421795648,
+  "duration": 37074442368,
   "status": "passed"
 });
 formatter.match({
   "location": "shoppingcartpage.groovy:293"
 });
 formatter.result({
-  "duration": 31827581851,
+  "duration": 35474380284,
   "status": "passed"
 });
 formatter.match({
@@ -11429,7 +11429,7 @@ formatter.match({
   "location": "common_csp.groovy:364"
 });
 formatter.result({
-  "duration": 462007582,
+  "duration": 449078344,
   "status": "passed"
 });
 formatter.match({
@@ -11442,14 +11442,14 @@ formatter.match({
   "location": "searchresultpage.groovy:1158"
 });
 formatter.result({
-  "duration": 28961526056,
+  "duration": 29717131262,
   "status": "passed"
 });
 formatter.match({
   "location": "shoppingcartpage.groovy:293"
 });
 formatter.result({
-  "duration": 34007665780,
+  "duration": 44373336813,
   "status": "passed"
 });
 formatter.match({
@@ -11462,7 +11462,7 @@ formatter.match({
   "location": "common_csp.groovy:364"
 });
 formatter.result({
-  "duration": 390192699,
+  "duration": 475884829,
   "status": "passed"
 });
 formatter.match({
@@ -11479,7 +11479,7 @@ formatter.match({
   "location": "common_csp.groovy:389"
 });
 formatter.result({
-  "duration": 7115042401,
+  "duration": 8811672254,
   "status": "passed"
 });
 formatter.match({
@@ -11496,7 +11496,7 @@ formatter.match({
   "location": "common_csp.groovy:389"
 });
 formatter.result({
-  "duration": 6391514344,
+  "duration": 6639749376,
   "status": "passed"
 });
 formatter.match({
@@ -11509,7 +11509,7 @@ formatter.match({
   "location": "searchresultpage.groovy:480"
 });
 formatter.result({
-  "duration": 11130318363,
+  "duration": 12183131354,
   "status": "passed"
 });
 formatter.match({
@@ -11522,7 +11522,7 @@ formatter.match({
   "location": "common_csp.groovy:364"
 });
 formatter.result({
-  "duration": 953083054,
+  "duration": 664660372,
   "status": "passed"
 });
 formatter.match({
@@ -11539,7 +11539,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 7381102076,
+  "duration": 8849600818,
   "status": "passed"
 });
 formatter.match({
@@ -11556,7 +11556,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 3690998400,
+  "duration": 4781864681,
   "status": "passed"
 });
 formatter.match({
@@ -11573,7 +11573,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 11589594825,
+  "duration": 17648244525,
   "status": "passed"
 });
 formatter.match({
@@ -11594,7 +11594,7 @@ formatter.match({
   "location": "common_csp.groovy:483"
 });
 formatter.result({
-  "duration": 4724058497,
+  "duration": 3584499042,
   "status": "passed"
 });
 formatter.match({
@@ -11615,22 +11615,22 @@ formatter.match({
   "location": "common_csp.groovy:483"
 });
 formatter.result({
-  "duration": 6174733344,
+  "duration": 3171449174,
   "status": "passed"
 });
 formatter.match({
   "location": "sctrachpad.groovy:77"
 });
 formatter.result({
-  "duration": 6935388565,
+  "duration": 8217024964,
   "status": "passed"
 });
 formatter.after({
-  "duration": 496039,
+  "duration": 488263,
   "status": "passed"
 });
 formatter.before({
-  "duration": 67859972,
+  "duration": 29089207,
   "status": "passed"
 });
 formatter.scenario({
@@ -11697,14 +11697,14 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 28057126006,
+  "duration": 26900272238,
   "status": "passed"
 });
 formatter.match({
   "location": "basepage.groovy:11"
 });
 formatter.result({
-  "duration": 1225997250,
+  "duration": 3108278982,
   "status": "passed"
 });
 formatter.match({
@@ -11717,22 +11717,22 @@ formatter.match({
   "location": "searchresultpage.groovy:1158"
 });
 formatter.result({
-  "duration": 30551241884,
+  "duration": 27854792691,
   "status": "passed"
 });
 formatter.match({
   "location": "sctrachpad.groovy:77"
 });
 formatter.result({
-  "duration": 9723198835,
+  "duration": 8159330895,
   "status": "passed"
 });
 formatter.after({
-  "duration": 426728,
+  "duration": 479477,
   "status": "passed"
 });
 formatter.before({
-  "duration": 34157284,
+  "duration": 29292711,
   "status": "passed"
 });
 formatter.scenario({
@@ -11804,7 +11804,7 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 32645692379,
+  "duration": 24018209857,
   "status": "passed"
 });
 formatter.match({
@@ -11817,14 +11817,14 @@ formatter.match({
   "location": "searchresultpage.groovy:1158"
 });
 formatter.result({
-  "duration": 26746203612,
+  "duration": 35174815587,
   "status": "passed"
 });
 formatter.match({
   "location": "searchresultpage.groovy:51"
 });
 formatter.result({
-  "duration": 230453319,
+  "duration": 346064270,
   "status": "passed"
 });
 formatter.match({
@@ -11841,22 +11841,22 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 735000213,
+  "duration": 931575896,
   "status": "passed"
 });
 formatter.match({
   "location": "sctrachpad.groovy:77"
 });
 formatter.result({
-  "duration": 7943682173,
+  "duration": 7097902599,
   "status": "passed"
 });
 formatter.after({
-  "duration": 478777,
+  "duration": 513714,
   "status": "passed"
 });
 formatter.before({
-  "duration": 27631826,
+  "duration": 37133552,
   "status": "passed"
 });
 formatter.scenario({
@@ -11923,7 +11923,7 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 34709052155,
+  "duration": 24211250537,
   "status": "passed"
 });
 formatter.match({
@@ -11936,7 +11936,7 @@ formatter.match({
   "location": "searchresultpage.groovy:1158"
 });
 formatter.result({
-  "duration": 22487130777,
+  "duration": 23224052397,
   "status": "passed"
 });
 formatter.match({
@@ -11949,7 +11949,7 @@ formatter.match({
   "location": "common_csp.groovy:364"
 });
 formatter.result({
-  "duration": 421324889,
+  "duration": 415447862,
   "status": "passed"
 });
 formatter.match({
@@ -11966,15 +11966,15 @@ formatter.match({
   "location": "common_csp.groovy:389"
 });
 formatter.result({
-  "duration": 8033341420,
+  "duration": 11605645894,
   "status": "passed"
 });
 formatter.after({
-  "duration": 505128,
+  "duration": 729628,
   "status": "passed"
 });
 formatter.before({
-  "duration": 28429836,
+  "duration": 39837705,
   "status": "passed"
 });
 formatter.scenario({
@@ -12091,7 +12091,7 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 35590966790,
+  "duration": 25845080735,
   "status": "passed"
 });
 formatter.match({
@@ -12104,7 +12104,7 @@ formatter.match({
   "location": "searchresultpage.groovy:1158"
 });
 formatter.result({
-  "duration": 27450573902,
+  "duration": 42700777418,
   "status": "passed"
 });
 formatter.match({
@@ -12117,7 +12117,7 @@ formatter.match({
   "location": "common_csp.groovy:364"
 });
 formatter.result({
-  "duration": 507905880,
+  "duration": 497418221,
   "status": "passed"
 });
 formatter.match({
@@ -12130,7 +12130,7 @@ formatter.match({
   "location": "searchresultpage.groovy:57"
 });
 formatter.result({
-  "duration": 9891244441,
+  "duration": 10346387124,
   "status": "passed"
 });
 formatter.match({
@@ -12143,7 +12143,7 @@ formatter.match({
   "location": "searchresultpage.groovy:57"
 });
 formatter.result({
-  "duration": 8703956644,
+  "duration": 14561035325,
   "status": "passed"
 });
 formatter.match({
@@ -12156,7 +12156,7 @@ formatter.match({
   "location": "searchresultpage.groovy:57"
 });
 formatter.result({
-  "duration": 12735093241,
+  "duration": 9938247648,
   "status": "passed"
 });
 formatter.match({
@@ -12169,7 +12169,7 @@ formatter.match({
   "location": "searchresultpage.groovy:57"
 });
 formatter.result({
-  "duration": 9772952254,
+  "duration": 19093805217,
   "status": "passed"
 });
 formatter.match({
@@ -12182,7 +12182,7 @@ formatter.match({
   "location": "searchresultpage.groovy:57"
 });
 formatter.result({
-  "duration": 10428549762,
+  "duration": 10010499477,
   "status": "passed"
 });
 formatter.match({
@@ -12195,7 +12195,7 @@ formatter.match({
   "location": "searchresultpage.groovy:57"
 });
 formatter.result({
-  "duration": 9310589441,
+  "duration": 8778344535,
   "status": "passed"
 });
 formatter.match({
@@ -12208,7 +12208,7 @@ formatter.match({
   "location": "searchresultpage.groovy:57"
 });
 formatter.result({
-  "duration": 8918260947,
+  "duration": 10434194434,
   "status": "passed"
 });
 formatter.match({
@@ -12221,7 +12221,7 @@ formatter.match({
   "location": "searchresultpage.groovy:57"
 });
 formatter.result({
-  "duration": 9369413853,
+  "duration": 11519228917,
   "status": "passed"
 });
 formatter.match({
@@ -12234,7 +12234,7 @@ formatter.match({
   "location": "searchresultpage.groovy:57"
 });
 formatter.result({
-  "duration": 10767902529,
+  "duration": 11050396235,
   "status": "passed"
 });
 formatter.match({
@@ -12247,22 +12247,22 @@ formatter.match({
   "location": "searchresultpage.groovy:57"
 });
 formatter.result({
-  "duration": 9620169494,
+  "duration": 14342022212,
   "status": "passed"
 });
 formatter.match({
   "location": "sctrachpad.groovy:77"
 });
 formatter.result({
-  "duration": 7968399769,
+  "duration": 8430419098,
   "status": "passed"
 });
 formatter.after({
-  "duration": 559588,
+  "duration": 814103,
   "status": "passed"
 });
 formatter.before({
-  "duration": 31142518,
+  "duration": 33137411,
   "status": "passed"
 });
 formatter.scenario({
@@ -12484,14 +12484,14 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 36734919644,
+  "duration": 20880003462,
   "status": "passed"
 });
 formatter.match({
   "location": "basepage.groovy:11"
 });
 formatter.result({
-  "duration": 2063869562,
+  "duration": 864630056,
   "status": "passed"
 });
 formatter.match({
@@ -12504,7 +12504,7 @@ formatter.match({
   "location": "categorynavigation.groovy:273"
 });
 formatter.result({
-  "duration": 30912790273,
+  "duration": 35739261323,
   "status": "passed"
 });
 formatter.match({
@@ -12517,14 +12517,14 @@ formatter.match({
   "location": "basepage.groovy:186"
 });
 formatter.result({
-  "duration": 1069387088,
+  "duration": 1051086063,
   "status": "passed"
 });
 formatter.match({
   "location": "productnavmenudisplayflag.groovy:30"
 });
 formatter.result({
-  "duration": 50747377622,
+  "duration": 54703094714,
   "status": "passed"
 });
 formatter.match({
@@ -12537,7 +12537,7 @@ formatter.match({
   "location": "common_csp.groovy:334"
 });
 formatter.result({
-  "duration": 2317794096,
+  "duration": 908384391,
   "status": "passed"
 });
 formatter.match({
@@ -12558,7 +12558,7 @@ formatter.match({
   "location": "changeaccountsubmit.groovy:92"
 });
 formatter.result({
-  "duration": 1231980178,
+  "duration": 3778264463,
   "status": "passed"
 });
 formatter.match({
@@ -12575,7 +12575,7 @@ formatter.match({
   "location": "changeaccountsubmit.groovy:80"
 });
 formatter.result({
-  "duration": 3079515827,
+  "duration": 5305396978,
   "status": "passed"
 });
 formatter.match({
@@ -12588,7 +12588,7 @@ formatter.match({
   "location": "common_csp.groovy:364"
 });
 formatter.result({
-  "duration": 897911305,
+  "duration": 993333914,
   "status": "passed"
 });
 formatter.match({
@@ -12609,7 +12609,7 @@ formatter.match({
   "location": "common_csp.groovy:109"
 });
 formatter.result({
-  "duration": 16052113911,
+  "duration": 14577084297,
   "status": "passed"
 });
 formatter.match({
@@ -12622,7 +12622,7 @@ formatter.match({
   "location": "searchresultpage.groovy:480"
 });
 formatter.result({
-  "duration": 10569464541,
+  "duration": 18703179516,
   "status": "passed"
 });
 formatter.match({
@@ -12643,7 +12643,7 @@ formatter.match({
   "location": "common_csp.groovy:442"
 });
 formatter.result({
-  "duration": 6029149008,
+  "duration": 7988834367,
   "status": "passed"
 });
 formatter.match({
@@ -12656,7 +12656,7 @@ formatter.match({
   "location": "common_csp.groovy:364"
 });
 formatter.result({
-  "duration": 4340764918,
+  "duration": 3839055173,
   "status": "passed"
 });
 formatter.match({
@@ -12673,7 +12673,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 1126892362,
+  "duration": 3733882889,
   "status": "passed"
 });
 formatter.match({
@@ -12690,7 +12690,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 3052617703,
+  "duration": 2067881494,
   "status": "passed"
 });
 formatter.match({
@@ -12707,7 +12707,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 1825302350,
+  "duration": 2596288806,
   "status": "passed"
 });
 formatter.match({
@@ -12724,7 +12724,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 3848256282,
+  "duration": 2464967240,
   "status": "passed"
 });
 formatter.match({
@@ -12741,7 +12741,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 2436748391,
+  "duration": 3810851803,
   "status": "passed"
 });
 formatter.match({
@@ -12758,7 +12758,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 2973447158,
+  "duration": 4357962285,
   "status": "passed"
 });
 formatter.match({
@@ -12775,7 +12775,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 6655842381,
+  "duration": 3034035076,
   "status": "passed"
 });
 formatter.match({
@@ -12792,7 +12792,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 3417981573,
+  "duration": 1483607259,
   "status": "passed"
 });
 formatter.match({
@@ -12809,7 +12809,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 1592334198,
+  "duration": 931722780,
   "status": "passed"
 });
 formatter.match({
@@ -12826,7 +12826,7 @@ formatter.match({
   "location": "common_csp.groovy:389"
 });
 formatter.result({
-  "duration": 30244463092,
+  "duration": 30818098361,
   "status": "passed"
 });
 formatter.match({
@@ -12843,7 +12843,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 710927061,
+  "duration": 890237381,
   "status": "passed"
 });
 formatter.match({
@@ -12860,7 +12860,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 698467337,
+  "duration": 864782165,
   "status": "passed"
 });
 formatter.match({
@@ -12877,7 +12877,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 677902250,
+  "duration": 907728648,
   "status": "passed"
 });
 formatter.match({
@@ -12894,7 +12894,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 1757025519,
+  "duration": 2370849861,
   "status": "passed"
 });
 formatter.match({
@@ -12911,7 +12911,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 1119839469,
+  "duration": 1071078053,
   "status": "passed"
 });
 formatter.match({
@@ -12928,7 +12928,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 938062103,
+  "duration": 1023098349,
   "status": "passed"
 });
 formatter.match({
@@ -12945,7 +12945,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 1043013391,
+  "duration": 2059556684,
   "status": "passed"
 });
 formatter.match({
@@ -12962,7 +12962,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 2907565577,
+  "duration": 1007854374,
   "status": "passed"
 });
 formatter.match({
@@ -12979,7 +12979,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 861096814,
+  "duration": 2440041699,
   "status": "passed"
 });
 formatter.match({
@@ -12996,7 +12996,7 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 651002004,
+  "duration": 1989426269,
   "status": "passed"
 });
 formatter.match({
@@ -13013,18 +13013,18 @@ formatter.match({
   "location": "common_csp.groovy:308"
 });
 formatter.result({
-  "duration": 886687483,
+  "duration": 2579353772,
   "status": "passed"
 });
 formatter.match({
   "location": "sctrachpad.groovy:77"
 });
 formatter.result({
-  "duration": 9526378192,
+  "duration": 8612263844,
   "status": "passed"
 });
 formatter.after({
-  "duration": 445389,
+  "duration": 588041,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -13137,7 +13137,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 26488514,
+  "duration": 60643690,
   "status": "passed"
 });
 formatter.scenario({
@@ -13233,14 +13233,14 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 35478615253,
+  "duration": 25175233439,
   "status": "passed"
 });
 formatter.match({
   "location": "changeaccountlink.groovy:12"
 });
 formatter.result({
-  "duration": 9463610292,
+  "duration": 6066813125,
   "status": "passed"
 });
 formatter.match({
@@ -13253,14 +13253,14 @@ formatter.match({
   "location": "changeaccountlink.groovy:16"
 });
 formatter.result({
-  "duration": 1025672622,
+  "duration": 1440712696,
   "status": "passed"
 });
 formatter.match({
   "location": "changeaccountcancellink.groovy:13"
 });
 formatter.result({
-  "duration": 12610019628,
+  "duration": 10446439372,
   "status": "passed"
 });
 formatter.match({
@@ -13297,7 +13297,7 @@ formatter.match({
   "location": "changeaccountdropdown.groovy:23"
 });
 formatter.result({
-  "duration": 10721916757,
+  "duration": 12529300502,
   "status": "passed"
 });
 formatter.match({
@@ -13314,29 +13314,29 @@ formatter.match({
   "location": "common_csp.groovy:524"
 });
 formatter.result({
-  "duration": 10817142407,
+  "duration": 14438632743,
   "status": "passed"
 });
 formatter.match({
   "location": "viewallaccounts.groovy:42"
 });
 formatter.result({
-  "duration": 1012803159,
+  "duration": 911613348,
   "status": "passed"
 });
 formatter.match({
   "location": "sctrachpad.groovy:77"
 });
 formatter.result({
-  "duration": 9321477542,
+  "duration": 8053370090,
   "status": "passed"
 });
 formatter.after({
-  "duration": 419007,
+  "duration": 404337,
   "status": "passed"
 });
 formatter.before({
-  "duration": 25015346,
+  "duration": 26634813,
   "status": "passed"
 });
 formatter.scenario({
@@ -13452,14 +13452,14 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 30056881010,
+  "duration": 24818729370,
   "status": "passed"
 });
 formatter.match({
   "location": "basepage.groovy:11"
 });
 formatter.result({
-  "duration": 991091027,
+  "duration": 2076372380,
   "status": "passed"
 });
 formatter.match({
@@ -13472,7 +13472,7 @@ formatter.match({
   "location": "categorynavigation.groovy:273"
 });
 formatter.result({
-  "duration": 28787261369,
+  "duration": 32889655567,
   "status": "passed"
 });
 formatter.match({
@@ -13485,28 +13485,28 @@ formatter.match({
   "location": "basepage.groovy:186"
 });
 formatter.result({
-  "duration": 2871222753,
+  "duration": 1993412935,
   "status": "passed"
 });
 formatter.match({
   "location": "productnavmenudisplayflag.groovy:58"
 });
 formatter.result({
-  "duration": 88840680748,
+  "duration": 105031494646,
   "status": "passed"
 });
 formatter.match({
   "location": "productnavmenudisplayflag.groovy:30"
 });
 formatter.result({
-  "duration": 62816841499,
+  "duration": 64739034697,
   "status": "passed"
 });
 formatter.match({
   "location": "shoppingcartpage.groovy:421"
 });
 formatter.result({
-  "duration": 5932842481,
+  "duration": 4989413410,
   "status": "passed"
 });
 formatter.match({
@@ -13519,7 +13519,7 @@ formatter.match({
   "location": "itemdetailspage.groovy:19"
 });
 formatter.result({
-  "duration": 779447523,
+  "duration": 1104961530,
   "status": "passed"
 });
 formatter.match({
@@ -13532,7 +13532,7 @@ formatter.match({
   "location": "itemdetailspage.groovy:62"
 });
 formatter.result({
-  "duration": 17511381486,
+  "duration": 9919023670,
   "status": "passed"
 });
 formatter.match({
@@ -13545,7 +13545,7 @@ formatter.match({
   "location": "itemdetailspage.groovy:19"
 });
 formatter.result({
-  "duration": 869123276,
+  "duration": 1095414033,
   "status": "passed"
 });
 formatter.match({
@@ -13558,7 +13558,7 @@ formatter.match({
   "location": "itemdetailspage.groovy:62"
 });
 formatter.result({
-  "duration": 11420222474,
+  "duration": 9681516485,
   "status": "passed"
 });
 formatter.match({
@@ -13571,22 +13571,22 @@ formatter.match({
   "location": "basepage.groovy:186"
 });
 formatter.result({
-  "duration": 1680329240,
+  "duration": 1359604301,
   "status": "passed"
 });
 formatter.match({
   "location": "sctrachpad.groovy:77"
 });
 formatter.result({
-  "duration": 13520884376,
+  "duration": 7149126517,
   "status": "passed"
 });
 formatter.after({
-  "duration": 419991,
+  "duration": 398593,
   "status": "passed"
 });
 formatter.before({
-  "duration": 25156924,
+  "duration": 26683354,
   "status": "passed"
 });
 formatter.scenario({
@@ -13698,14 +13698,14 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 30431266720,
+  "duration": 23869859759,
   "status": "passed"
 });
 formatter.match({
   "location": "changeaccountlink.groovy:12"
 });
 formatter.result({
-  "duration": 9454863343,
+  "duration": 5275234926,
   "status": "passed"
 });
 formatter.match({
@@ -13718,14 +13718,14 @@ formatter.match({
   "location": "changeaccountlink.groovy:16"
 });
 formatter.result({
-  "duration": 1170605547,
+  "duration": 3430630652,
   "status": "passed"
 });
 formatter.match({
   "location": "changeaccountcancellink.groovy:13"
 });
 formatter.result({
-  "duration": 9819058652,
+  "duration": 8651583579,
   "status": "passed"
 });
 formatter.match({
@@ -13742,14 +13742,14 @@ formatter.match({
   "location": "common_csp.groovy:524"
 });
 formatter.result({
-  "duration": 10481313296,
+  "duration": 7881749590,
   "status": "passed"
 });
 formatter.match({
   "location": "viewallaccounts.groovy:42"
 });
 formatter.result({
-  "duration": 1411869315,
+  "duration": 1074893847,
   "status": "passed"
 });
 formatter.match({
@@ -13770,7 +13770,7 @@ formatter.match({
   "location": "changeaccountsubmit.groovy:71"
 });
 formatter.result({
-  "duration": 3883493196,
+  "duration": 4051618390,
   "status": "passed"
 });
 formatter.match({
@@ -13791,7 +13791,7 @@ formatter.match({
   "location": "changeaccountsubmit.groovy:71"
 });
 formatter.result({
-  "duration": 2669755996,
+  "duration": 3251805486,
   "status": "passed"
 });
 formatter.match({
@@ -13808,7 +13808,7 @@ formatter.match({
   "location": "common_csp.groovy:524"
 });
 formatter.result({
-  "duration": 11268831779,
+  "duration": 11742520621,
   "status": "passed"
 });
 formatter.match({
@@ -13825,7 +13825,7 @@ formatter.match({
   "location": "common_csp.groovy:524"
 });
 formatter.result({
-  "duration": 21088356195,
+  "duration": 16478277248,
   "status": "passed"
 });
 formatter.match({
@@ -13842,7 +13842,7 @@ formatter.match({
   "location": "login.groovy:85"
 });
 formatter.result({
-  "duration": 12507571225,
+  "duration": 11168398491,
   "status": "passed"
 });
 formatter.match({
@@ -13859,22 +13859,22 @@ formatter.match({
   "location": "login.groovy:85"
 });
 formatter.result({
-  "duration": 16844175030,
+  "duration": 17411258996,
   "status": "passed"
 });
 formatter.match({
   "location": "sctrachpad.groovy:77"
 });
 formatter.result({
-  "duration": 11841997453,
+  "duration": 10212355694,
   "status": "passed"
 });
 formatter.after({
-  "duration": 373370,
+  "duration": 475065,
   "status": "passed"
 });
 formatter.before({
-  "duration": 26199959,
+  "duration": 32859124,
   "status": "passed"
 });
 formatter.scenario({
@@ -14026,14 +14026,14 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 34127041836,
+  "duration": 20915155670,
   "status": "passed"
 });
 formatter.match({
   "location": "changeaccountlink.groovy:12"
 });
 formatter.result({
-  "duration": 10924960180,
+  "duration": 5397508235,
   "status": "passed"
 });
 formatter.match({
@@ -14046,14 +14046,14 @@ formatter.match({
   "location": "changeaccountlink.groovy:16"
 });
 formatter.result({
-  "duration": 2428788235,
+  "duration": 2329082584,
   "status": "passed"
 });
 formatter.match({
   "location": "changeaccountcancellink.groovy:13"
 });
 formatter.result({
-  "duration": 8932801680,
+  "duration": 9247816240,
   "status": "passed"
 });
 formatter.match({
@@ -14070,14 +14070,14 @@ formatter.match({
   "location": "common_csp.groovy:524"
 });
 formatter.result({
-  "duration": 6930981221,
+  "duration": 9344889809,
   "status": "passed"
 });
 formatter.match({
   "location": "viewallaccounts.groovy:42"
 });
 formatter.result({
-  "duration": 1335199830,
+  "duration": 864722357,
   "status": "passed"
 });
 formatter.match({
@@ -14098,7 +14098,7 @@ formatter.match({
   "location": "changeaccountsubmit.groovy:71"
 });
 formatter.result({
-  "duration": 5182547760,
+  "duration": 4188657693,
   "status": "passed"
 });
 formatter.match({
@@ -14119,7 +14119,7 @@ formatter.match({
   "location": "changeaccountsubmit.groovy:71"
 });
 formatter.result({
-  "duration": 4887637173,
+  "duration": 4935912951,
   "status": "passed"
 });
 formatter.match({
@@ -14136,7 +14136,7 @@ formatter.match({
   "location": "common_csp.groovy:524"
 });
 formatter.result({
-  "duration": 6570309983,
+  "duration": 7016233997,
   "status": "passed"
 });
 formatter.match({
@@ -14149,14 +14149,14 @@ formatter.match({
   "location": "changeaccountlink.groovy:16"
 });
 formatter.result({
-  "duration": 3884361306,
+  "duration": 3046638548,
   "status": "passed"
 });
 formatter.match({
   "location": "changeaccountcancellink.groovy:13"
 });
 formatter.result({
-  "duration": 11182890039,
+  "duration": 13044040776,
   "status": "passed"
 });
 formatter.match({
@@ -14177,7 +14177,7 @@ formatter.match({
   "location": "common_csp.groovy:109"
 });
 formatter.result({
-  "duration": 11555573547,
+  "duration": 8482608937,
   "status": "passed"
 });
 formatter.match({
@@ -14194,7 +14194,7 @@ formatter.match({
   "location": "common_csp.groovy:524"
 });
 formatter.result({
-  "duration": 9865672202,
+  "duration": 11306972783,
   "status": "passed"
 });
 formatter.match({
@@ -14207,7 +14207,7 @@ formatter.match({
   "location": "changeaccountdropdown.groovy:96"
 });
 formatter.result({
-  "duration": 2311917549,
+  "duration": 1438460996,
   "status": "passed"
 });
 formatter.match({
@@ -14228,7 +14228,7 @@ formatter.match({
   "location": "changeaccountsubmit.groovy:71"
 });
 formatter.result({
-  "duration": 4932588913,
+  "duration": 3098071156,
   "status": "passed"
 });
 formatter.match({
@@ -14249,7 +14249,7 @@ formatter.match({
   "location": "changeaccountsubmit.groovy:71"
 });
 formatter.result({
-  "duration": 3455607396,
+  "duration": 5412544319,
   "status": "passed"
 });
 formatter.match({
@@ -14266,7 +14266,7 @@ formatter.match({
   "location": "common_csp.groovy:524"
 });
 formatter.result({
-  "duration": 8882064156,
+  "duration": 12686466950,
   "status": "passed"
 });
 formatter.match({
@@ -14283,7 +14283,7 @@ formatter.match({
   "location": "common_csp.groovy:524"
 });
 formatter.result({
-  "duration": 22068209685,
+  "duration": 16852373187,
   "status": "passed"
 });
 formatter.match({
@@ -14300,7 +14300,7 @@ formatter.match({
   "location": "login.groovy:85"
 });
 formatter.result({
-  "duration": 13276974528,
+  "duration": 12957947087,
   "status": "passed"
 });
 formatter.match({
@@ -14317,22 +14317,22 @@ formatter.match({
   "location": "login.groovy:85"
 });
 formatter.result({
-  "duration": 13523750426,
+  "duration": 16231689396,
   "status": "passed"
 });
 formatter.match({
   "location": "sctrachpad.groovy:77"
 });
 formatter.result({
-  "duration": 10293132127,
+  "duration": 10542611317,
   "status": "passed"
 });
 formatter.after({
-  "duration": 450887,
+  "duration": 453837,
   "status": "passed"
 });
 formatter.before({
-  "duration": 38472915,
+  "duration": 33619891,
   "status": "passed"
 });
 formatter.scenario({
@@ -14484,14 +14484,14 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 30859002998,
+  "duration": 19439281758,
   "status": "passed"
 });
 formatter.match({
   "location": "changeaccountlink.groovy:12"
 });
 formatter.result({
-  "duration": 11344386617,
+  "duration": 7107515713,
   "status": "passed"
 });
 formatter.match({
@@ -14504,14 +14504,14 @@ formatter.match({
   "location": "changeaccountlink.groovy:16"
 });
 formatter.result({
-  "duration": 1485815772,
+  "duration": 1848689457,
   "status": "passed"
 });
 formatter.match({
   "location": "changeaccountcancellink.groovy:13"
 });
 formatter.result({
-  "duration": 9760127888,
+  "duration": 11040719100,
   "status": "passed"
 });
 formatter.match({
@@ -14528,14 +14528,14 @@ formatter.match({
   "location": "common_csp.groovy:524"
 });
 formatter.result({
-  "duration": 7582548757,
+  "duration": 8326476794,
   "status": "passed"
 });
 formatter.match({
   "location": "viewallaccounts.groovy:42"
 });
 formatter.result({
-  "duration": 793102878,
+  "duration": 825847048,
   "status": "passed"
 });
 formatter.match({
@@ -14556,7 +14556,7 @@ formatter.match({
   "location": "changeaccountsubmit.groovy:71"
 });
 formatter.result({
-  "duration": 14236695205,
+  "duration": 14987408789,
   "status": "passed"
 });
 formatter.match({
@@ -14577,7 +14577,7 @@ formatter.match({
   "location": "changeaccountsubmit.groovy:71"
 });
 formatter.result({
-  "duration": 12000443051,
+  "duration": 15057154419,
   "status": "passed"
 });
 formatter.match({
@@ -14594,7 +14594,7 @@ formatter.match({
   "location": "common_csp.groovy:524"
 });
 formatter.result({
-  "duration": 7235342839,
+  "duration": 7425823275,
   "status": "passed"
 });
 formatter.match({
@@ -14607,14 +14607,14 @@ formatter.match({
   "location": "changeaccountlink.groovy:16"
 });
 formatter.result({
-  "duration": 1117016868,
+  "duration": 1614216214,
   "status": "passed"
 });
 formatter.match({
   "location": "changeaccountcancellink.groovy:13"
 });
 formatter.result({
-  "duration": 13832335361,
+  "duration": 11183394752,
   "status": "passed"
 });
 formatter.match({
@@ -14635,7 +14635,7 @@ formatter.match({
   "location": "common_csp.groovy:109"
 });
 formatter.result({
-  "duration": 7443572516,
+  "duration": 10133158950,
   "status": "passed"
 });
 formatter.match({
@@ -14652,7 +14652,7 @@ formatter.match({
   "location": "common_csp.groovy:524"
 });
 formatter.result({
-  "duration": 8967419151,
+  "duration": 8709291185,
   "status": "passed"
 });
 formatter.match({
@@ -14665,7 +14665,7 @@ formatter.match({
   "location": "changeaccountdropdown.groovy:96"
 });
 formatter.result({
-  "duration": 8416467574,
+  "duration": 5990205997,
   "status": "passed"
 });
 formatter.match({
@@ -14686,7 +14686,7 @@ formatter.match({
   "location": "changeaccountsubmit.groovy:71"
 });
 formatter.result({
-  "duration": 11542571492,
+  "duration": 11660872168,
   "status": "passed"
 });
 formatter.match({
@@ -14707,7 +14707,7 @@ formatter.match({
   "location": "changeaccountsubmit.groovy:71"
 });
 formatter.result({
-  "duration": 13049501260,
+  "duration": 11833929203,
   "status": "passed"
 });
 formatter.match({
@@ -14724,7 +14724,7 @@ formatter.match({
   "location": "common_csp.groovy:524"
 });
 formatter.result({
-  "duration": 6977938644,
+  "duration": 9608612888,
   "status": "passed"
 });
 formatter.match({
@@ -14741,7 +14741,7 @@ formatter.match({
   "location": "common_csp.groovy:524"
 });
 formatter.result({
-  "duration": 20221596885,
+  "duration": 20097547864,
   "status": "passed"
 });
 formatter.match({
@@ -14758,7 +14758,7 @@ formatter.match({
   "location": "login.groovy:85"
 });
 formatter.result({
-  "duration": 12756310438,
+  "duration": 10722972497,
   "status": "passed"
 });
 formatter.match({
@@ -14775,22 +14775,22 @@ formatter.match({
   "location": "login.groovy:85"
 });
 formatter.result({
-  "duration": 13241902799,
+  "duration": 14146060167,
   "status": "passed"
 });
 formatter.match({
   "location": "sctrachpad.groovy:77"
 });
 formatter.result({
-  "duration": 6186924744,
+  "duration": 11528143268,
   "status": "passed"
 });
 formatter.after({
-  "duration": 635608,
+  "duration": 476832,
   "status": "passed"
 });
 formatter.before({
-  "duration": 31363302,
+  "duration": 27221006,
   "status": "passed"
 });
 formatter.scenario({
@@ -14942,14 +14942,14 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 27267120855,
+  "duration": 25908562220,
   "status": "passed"
 });
 formatter.match({
   "location": "changeaccountlink.groovy:12"
 });
 formatter.result({
-  "duration": 11438080722,
+  "duration": 7740438804,
   "status": "passed"
 });
 formatter.match({
@@ -14962,14 +14962,14 @@ formatter.match({
   "location": "changeaccountlink.groovy:16"
 });
 formatter.result({
-  "duration": 1724021425,
+  "duration": 2264949473,
   "status": "passed"
 });
 formatter.match({
   "location": "changeaccountcancellink.groovy:13"
 });
 formatter.result({
-  "duration": 14126839796,
+  "duration": 10745542824,
   "status": "passed"
 });
 formatter.match({
@@ -14986,14 +14986,14 @@ formatter.match({
   "location": "common_csp.groovy:524"
 });
 formatter.result({
-  "duration": 11072724990,
+  "duration": 9831062298,
   "status": "passed"
 });
 formatter.match({
   "location": "viewallaccounts.groovy:42"
 });
 formatter.result({
-  "duration": 882380903,
+  "duration": 1028987535,
   "status": "passed"
 });
 formatter.match({
@@ -15014,7 +15014,7 @@ formatter.match({
   "location": "changeaccountsubmit.groovy:71"
 });
 formatter.result({
-  "duration": 5322290451,
+  "duration": 3189202365,
   "status": "passed"
 });
 formatter.match({
@@ -15035,7 +15035,7 @@ formatter.match({
   "location": "changeaccountsubmit.groovy:71"
 });
 formatter.result({
-  "duration": 2624832076,
+  "duration": 3373968560,
   "status": "passed"
 });
 formatter.match({
@@ -15052,7 +15052,7 @@ formatter.match({
   "location": "common_csp.groovy:524"
 });
 formatter.result({
-  "duration": 6676648574,
+  "duration": 6635811748,
   "status": "passed"
 });
 formatter.match({
@@ -15065,14 +15065,14 @@ formatter.match({
   "location": "changeaccountlink.groovy:16"
 });
 formatter.result({
-  "duration": 1065474119,
+  "duration": 1319902332,
   "status": "passed"
 });
 formatter.match({
   "location": "changeaccountcancellink.groovy:13"
 });
 formatter.result({
-  "duration": 8665725552,
+  "duration": 10597013850,
   "status": "passed"
 });
 formatter.match({
@@ -15093,7 +15093,7 @@ formatter.match({
   "location": "common_csp.groovy:109"
 });
 formatter.result({
-  "duration": 7646166888,
+  "duration": 13262774493,
   "status": "passed"
 });
 formatter.match({
@@ -15110,7 +15110,7 @@ formatter.match({
   "location": "common_csp.groovy:524"
 });
 formatter.result({
-  "duration": 10065037364,
+  "duration": 8642164700,
   "status": "passed"
 });
 formatter.match({
@@ -15123,7 +15123,7 @@ formatter.match({
   "location": "changeaccountdropdown.groovy:96"
 });
 formatter.result({
-  "duration": 1235947773,
+  "duration": 1369708952,
   "status": "passed"
 });
 formatter.match({
@@ -15144,7 +15144,7 @@ formatter.match({
   "location": "changeaccountsubmit.groovy:71"
 });
 formatter.result({
-  "duration": 3870612690,
+  "duration": 3059944053,
   "status": "passed"
 });
 formatter.match({
@@ -15165,7 +15165,7 @@ formatter.match({
   "location": "changeaccountsubmit.groovy:71"
 });
 formatter.result({
-  "duration": 4169956649,
+  "duration": 5925688135,
   "status": "passed"
 });
 formatter.match({
@@ -15182,7 +15182,7 @@ formatter.match({
   "location": "common_csp.groovy:524"
 });
 formatter.result({
-  "duration": 6551125089,
+  "duration": 8776213036,
   "status": "passed"
 });
 formatter.match({
@@ -15199,7 +15199,7 @@ formatter.match({
   "location": "common_csp.groovy:524"
 });
 formatter.result({
-  "duration": 21636735602,
+  "duration": 18454905140,
   "status": "passed"
 });
 formatter.match({
@@ -15216,7 +15216,7 @@ formatter.match({
   "location": "login.groovy:85"
 });
 formatter.result({
-  "duration": 17010733481,
+  "duration": 13490540920,
   "status": "passed"
 });
 formatter.match({
@@ -15233,22 +15233,22 @@ formatter.match({
   "location": "login.groovy:85"
 });
 formatter.result({
-  "duration": 13321360882,
+  "duration": 15546754529,
   "status": "passed"
 });
 formatter.match({
   "location": "sctrachpad.groovy:77"
 });
 formatter.result({
-  "duration": 10425534281,
+  "duration": 15916051050,
   "status": "passed"
 });
 formatter.after({
-  "duration": 506717,
+  "duration": 610697,
   "status": "passed"
 });
 formatter.before({
-  "duration": 26731643,
+  "duration": 35364180,
   "status": "passed"
 });
 formatter.scenario({
@@ -15405,14 +15405,14 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 30731864677,
+  "duration": 25159914898,
   "status": "passed"
 });
 formatter.match({
   "location": "changeaccountlink.groovy:12"
 });
 formatter.result({
-  "duration": 9159903073,
+  "duration": 6633123204,
   "status": "passed"
 });
 formatter.match({
@@ -15425,14 +15425,14 @@ formatter.match({
   "location": "changeaccountlink.groovy:16"
 });
 formatter.result({
-  "duration": 1754178278,
+  "duration": 1066981758,
   "status": "passed"
 });
 formatter.match({
   "location": "changeaccountcancellink.groovy:13"
 });
 formatter.result({
-  "duration": 11924161189,
+  "duration": 8852703037,
   "status": "passed"
 });
 formatter.match({
@@ -15449,14 +15449,14 @@ formatter.match({
   "location": "common_csp.groovy:524"
 });
 formatter.result({
-  "duration": 9188822300,
+  "duration": 7437614148,
   "status": "passed"
 });
 formatter.match({
   "location": "viewallaccounts.groovy:42"
 });
 formatter.result({
-  "duration": 785422603,
+  "duration": 850405352,
   "status": "passed"
 });
 formatter.match({
@@ -15477,7 +15477,7 @@ formatter.match({
   "location": "changeaccountsubmit.groovy:71"
 });
 formatter.result({
-  "duration": 10497601548,
+  "duration": 10728068734,
   "status": "passed"
 });
 formatter.match({
@@ -15498,7 +15498,7 @@ formatter.match({
   "location": "changeaccountsubmit.groovy:71"
 });
 formatter.result({
-  "duration": 13947087638,
+  "duration": 15199943689,
   "status": "passed"
 });
 formatter.match({
@@ -15515,7 +15515,7 @@ formatter.match({
   "location": "common_csp.groovy:524"
 });
 formatter.result({
-  "duration": 8820934012,
+  "duration": 8066824175,
   "status": "passed"
 });
 formatter.match({
@@ -15528,14 +15528,14 @@ formatter.match({
   "location": "changeaccountlink.groovy:16"
 });
 formatter.result({
-  "duration": 1212368100,
+  "duration": 1458679956,
   "status": "passed"
 });
 formatter.match({
   "location": "changeaccountcancellink.groovy:13"
 });
 formatter.result({
-  "duration": 8941247790,
+  "duration": 11355707947,
   "status": "passed"
 });
 formatter.match({
@@ -15556,7 +15556,7 @@ formatter.match({
   "location": "common_csp.groovy:109"
 });
 formatter.result({
-  "duration": 10430833596,
+  "duration": 11623528404,
   "status": "passed"
 });
 formatter.match({
@@ -15573,7 +15573,7 @@ formatter.match({
   "location": "common_csp.groovy:524"
 });
 formatter.result({
-  "duration": 10192003878,
+  "duration": 10881116394,
   "status": "passed"
 });
 formatter.match({
@@ -15586,7 +15586,7 @@ formatter.match({
   "location": "changeaccountdropdown.groovy:96"
 });
 formatter.result({
-  "duration": 6059289551,
+  "duration": 6290480800,
   "status": "passed"
 });
 formatter.match({
@@ -15607,7 +15607,7 @@ formatter.match({
   "location": "changeaccountsubmit.groovy:71"
 });
 formatter.result({
-  "duration": 13770430816,
+  "duration": 14129352260,
   "status": "passed"
 });
 formatter.match({
@@ -15628,7 +15628,7 @@ formatter.match({
   "location": "changeaccountsubmit.groovy:71"
 });
 formatter.result({
-  "duration": 17721461605,
+  "duration": 20291569944,
   "status": "passed"
 });
 formatter.match({
@@ -15645,7 +15645,7 @@ formatter.match({
   "location": "common_csp.groovy:524"
 });
 formatter.result({
-  "duration": 10800002568,
+  "duration": 10088100274,
   "status": "passed"
 });
 formatter.match({
@@ -15662,7 +15662,7 @@ formatter.match({
   "location": "common_csp.groovy:524"
 });
 formatter.result({
-  "duration": 21068879763,
+  "duration": 19075069128,
   "status": "passed"
 });
 formatter.match({
@@ -15675,7 +15675,7 @@ formatter.match({
   "location": "common_csp.groovy:346"
 });
 formatter.result({
-  "duration": 5000442272,
+  "duration": 5000485643,
   "status": "passed"
 });
 formatter.match({
@@ -15692,7 +15692,7 @@ formatter.match({
   "location": "login.groovy:85"
 });
 formatter.result({
-  "duration": 15924131446,
+  "duration": 15343535922,
   "status": "passed"
 });
 formatter.match({
@@ -15709,22 +15709,22 @@ formatter.match({
   "location": "login.groovy:85"
 });
 formatter.result({
-  "duration": 16936863284,
+  "duration": 14136934465,
   "status": "passed"
 });
 formatter.match({
   "location": "sctrachpad.groovy:77"
 });
 formatter.result({
-  "duration": 8704899896,
+  "duration": 9397200646,
   "status": "passed"
 });
 formatter.after({
-  "duration": 368314,
+  "duration": 478623,
   "status": "passed"
 });
 formatter.before({
-  "duration": 27525343,
+  "duration": 34976930,
   "status": "passed"
 });
 formatter.scenario({
@@ -15846,14 +15846,14 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 29329875555,
+  "duration": 26715856705,
   "status": "passed"
 });
 formatter.match({
   "location": "changeaccountlink.groovy:12"
 });
 formatter.result({
-  "duration": 9004286850,
+  "duration": 6180147550,
   "status": "passed"
 });
 formatter.match({
@@ -15866,7 +15866,7 @@ formatter.match({
   "location": "searchresultpage.groovy:480"
 });
 formatter.result({
-  "duration": 10643095572,
+  "duration": 8473329231,
   "status": "passed"
 });
 formatter.match({
@@ -15887,7 +15887,7 @@ formatter.match({
   "location": "common_csp.groovy:69"
 });
 formatter.result({
-  "duration": 3027212755,
+  "duration": 6937987196,
   "status": "passed"
 });
 formatter.match({
@@ -15908,7 +15908,7 @@ formatter.match({
   "location": "common_csp.groovy:69"
 });
 formatter.result({
-  "duration": 4623607503,
+  "duration": 3671814297,
   "status": "passed"
 });
 formatter.match({
@@ -15929,7 +15929,7 @@ formatter.match({
   "location": "common_csp.groovy:69"
 });
 formatter.result({
-  "duration": 4549318609,
+  "duration": 6378858820,
   "status": "passed"
 });
 formatter.match({
@@ -15950,7 +15950,7 @@ formatter.match({
   "location": "common_csp.groovy:69"
 });
 formatter.result({
-  "duration": 4488224862,
+  "duration": 3172392250,
   "status": "passed"
 });
 formatter.match({
@@ -15971,7 +15971,7 @@ formatter.match({
   "location": "common_csp.groovy:69"
 });
 formatter.result({
-  "duration": 3971159369,
+  "duration": 3409186397,
   "status": "passed"
 });
 formatter.match({
@@ -15984,7 +15984,7 @@ formatter.match({
   "location": "searchresultpage.groovy:480"
 });
 formatter.result({
-  "duration": 8720413549,
+  "duration": 7439387891,
   "status": "passed"
 });
 formatter.match({
@@ -16005,7 +16005,7 @@ formatter.match({
   "location": "common_csp.groovy:69"
 });
 formatter.result({
-  "duration": 4031992169,
+  "duration": 4998690915,
   "status": "passed"
 });
 formatter.match({
@@ -16026,7 +16026,7 @@ formatter.match({
   "location": "common_csp.groovy:69"
 });
 formatter.result({
-  "duration": 2837719960,
+  "duration": 4562787988,
   "status": "passed"
 });
 formatter.match({
@@ -16047,7 +16047,7 @@ formatter.match({
   "location": "common_csp.groovy:69"
 });
 formatter.result({
-  "duration": 3189099696,
+  "duration": 4962968043,
   "status": "passed"
 });
 formatter.match({
@@ -16068,7 +16068,7 @@ formatter.match({
   "location": "common_csp.groovy:69"
 });
 formatter.result({
-  "duration": 3144998853,
+  "duration": 4420880602,
   "status": "passed"
 });
 formatter.match({
@@ -16089,22 +16089,22 @@ formatter.match({
   "location": "common_csp.groovy:69"
 });
 formatter.result({
-  "duration": 4917322678,
+  "duration": 3740725131,
   "status": "passed"
 });
 formatter.match({
   "location": "sctrachpad.groovy:77"
 });
 formatter.result({
-  "duration": 9466520529,
+  "duration": 9890090604,
   "status": "passed"
 });
 formatter.after({
-  "duration": 427771,
+  "duration": 528117,
   "status": "passed"
 });
 formatter.before({
-  "duration": 28214862,
+  "duration": 32381937,
   "status": "passed"
 });
 formatter.scenario({
@@ -16176,14 +16176,14 @@ formatter.match({
   "location": "common_csp.groovy:19"
 });
 formatter.result({
-  "duration": 27260707018,
+  "duration": 22301791356,
   "status": "passed"
 });
 formatter.match({
   "location": "basepage.groovy:11"
 });
 formatter.result({
-  "duration": 1296022965,
+  "duration": 1721292511,
   "status": "passed"
 });
 formatter.match({
@@ -16196,7 +16196,7 @@ formatter.match({
   "location": "categorynavigation.groovy:273"
 });
 formatter.result({
-  "duration": 28875823133,
+  "duration": 29468456243,
   "status": "passed"
 });
 formatter.match({
@@ -16209,7 +16209,7 @@ formatter.match({
   "location": "basepage.groovy:104"
 });
 formatter.result({
-  "duration": 2598126896,
+  "duration": 3810458898,
   "status": "passed"
 });
 formatter.match({
@@ -16222,11 +16222,11 @@ formatter.match({
   "location": "common_csp.groovy:364"
 });
 formatter.result({
-  "duration": 2903711469,
+  "duration": 1610998252,
   "status": "passed"
 });
 formatter.after({
-  "duration": 317531,
+  "duration": 437059,
   "status": "passed"
 });
 });
